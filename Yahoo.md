@@ -47,3 +47,36 @@
 <tr><td>SSL</td> <td><p>Por razões de segurança, URLs de impressão devem ser obrigatoriamente seguras (HTTPS)</p></td></tr>
 </tbody>
 </table>
+
+<h2>Criativos a entregar</h2>
+<table>
+	<tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
+		<tr><td>Main Banner</td><td>HTML5 (.zip)</td><td>120×600 px</td><td>200 KB</td></tr>
+		<tr><td>Imagem de Backup</td><td>JPG, GIF, PNG</td><td>120×600 px</td><td>200 KB</td></tr>
+	</tbody></table>
+	<h2>Regras Gerais</h2>
+	<table>
+		<tbody>
+			<tr><td>Prazo de Envio</td> <td><p>3 (três) dias úteis</p></td></tr>
+			<tr><td>Policies</td> <td><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies">policies do Yahoo</a></p></td></tr>
+		</tbody>
+	</table>
+<h2>3rd Party</h2>
+<table>
+	<tbody>
+		<tr><td>Third Party Serving</td> <td><p>Exclusivamente para tags&nbsp;IFRAME, apenas dos <a href="http://br.adspecs.yahoo.com/thirdparty" target="_blank">vendors certificados pelo Yahoo</a></p></td></tr>
+		<tr><td>Third Party Tracking</td> <td><p>URL redirects e um 1×1 pixel por anúncio, dos <a href="http://br.adspecs.yahoo.com/thirdparty">vendors aprovados</a></p></td></tr>
+		<tr><td>SSL</td> <td><p>Por razões de segurança, todas as chamadas de arquivos, URLs, pixels e scripts devem ser feitas obrigatoriamente em HTTPS</p></td></tr>
+		<tr><td>HTML5</td> <td><p>Tags homologadas previamente deverão ser verificadas separadamente para HTML5, seguindo o processo padrão de certificação.</p></td></tr>
+	</tbody>
+</table>
+<h2>Especificações HTML5 (Standard)</h2>
+<table
+<tbody>
+	<tr><td>Tipos de imagens suportadas</td> <td><p>GIF, JPG, PNG e SVG</p></td></tr>
+	<tr><td>Peso máximo de arquivo</td> <td><ul><li>O peso total é calculado após a descompressão de TODOS os arquivos necessários de dentro do <code>.zip</code>. Se após a descompressão do <code>.zip</code> o total for maior que o especificado para o formato, serão pedidos ajustes.</li><li>Quando o arquivo <code>.zip</code> é descompresso (em um arquivo <code>.html</code>), deve ser possível ver a peça sem conexão à internet.</li><li>Arquivos iniciados pelo usuário não são considerados parte do peso inicial do arquivo.</li></ul></td></tr>
+	<tr><td>Pacotes</td> <td><p>Todos os criativos devem estar dentro de uma única pasta .zip. Adicionalmente, deve ter apenas 1 arquivo .html na raíz da pasta, na qual se inicia todo o Ad.</p></td></tr>
+	<tr><td>Diretrizes HTML5</td> <td><p>Para mais detalhes, possuímos regras para configurações gerais do HTML, neste link: <a href="https://br.adspecs.yahoo.com/pages/html5/">Diretrizes HTML5</a>.</p></td></tr>
+	<tr><td>Adicionando uma clickTAG ao Swiffy</td> <td><p>Instruções <a href="https://goo.gl/jRXSWN">aqui</a>.</p></td></tr>
+</tbody>
+</table>
