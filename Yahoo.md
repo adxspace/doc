@@ -67,3 +67,48 @@
 	<tr><td>Adicionando uma clickTAG ao Swiffy</td> <td><p>Instruções <a href="https://goo.gl/jRXSWN">aqui</a>.</p></td></tr>
 </tbody>
 </table>
+<h1>364×30 LAN Toolbar</h1>
+
+<h2>Criativos a entregar</h2>
+<table>
+<tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
+    <tr><td>Main Banner</td><td>HTML5 (.zip)</td><td>364×30 px</td><td>200 KB</td></tr>
+    <tr><td>Imagem de Backup</td><td>JPG, GIF, PNG</td><td>364×30 px</td><td>200 KB</td></tr>
+</tbody></table>
+<h2>Detalhes</h2>
+<table>
+<tbody>
+<tr><td>Área disponível</td> <td><ul><li>364×30 px total (314×30 px disponível)</li><li>Os 50 px finais à direita da peça funcionam como uma área de corte. Dependendo da resolução do usuário, elementos nessa área podem ser cortados.<br>
+    Não inserir elementos como Logos, textos ou qualquer tipo de elemento visual que atrapalhe o entendimento da peça caso apareça cortado.</li></ul></td></tr>
+    <tr><td>Borda</td> <td><p>Necessária de todos os lados quando a cor de fundo do banner for branca ou de outra tonalidade muito clara.</p></td></tr>
+    <tr><td>Áudio e Vídeo</td> <td><p>Áudio disponível: Iniciado e carregado após o click. Formato MP3, fazer a chamada externamente. Arquivo hospedado pelo Yahoo<br>
+        (exceção para rádios on-line. Nesse caso, toda a mecânica da peça já deve vir pronta, o áudio pode ser iniciado automaticamente e não temos restrição para o formato de áudio).</p></td></tr>
+    </tbody>
+</table>
+
+<h2>Regras Gerais</h2>
+<table>
+    <tbody>
+        <tr><td>Prazo de Envio</td> <td><p>3 (três) dias úteis</p></td></tr>
+        <tr><td>Policies</td> <td><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies">policies do Yahoo</a></p></td></tr>
+    </tbody>
+</table>
+
+<h2>3rd Party – Contador</h2>
+<table>
+    <tbody>
+        <tr><td>Third Party Serving</td> <td><p>Indisponível</p></td></tr>
+        <tr><td>Third Party Tracking</td> <td><p>URL redirects e um 1×1 pixel por anúncio</p></td></tr>
+        <tr><td>SSL</td> <td><p>Por razões de segurança, URLs de impressão devem ser obrigatoriamente seguras (HTTPS)</p></td></tr>
+    </tbody>
+</table>
+<h2>Especificações HTML5 (Standard)</h2>
+<table>
+    <tbody>
+        <tr><td>Tipos de imagens suportadas</td> <td><p>GIF, JPG, PNG e SVG</p></td></tr>
+        <tr><td>Peso máximo de arquivo</td> <td><ul><li>O peso total é calculado após a descompressão de TODOS os arquivos necessários de dentro do <code>.zip</code>. Se após a descompressão do <code>.zip</code> o total for maior que o especificado para o formato, serão pedidos ajustes.</li><li>Quando o arquivo <code>.zip</code> é descompresso (em um arquivo <code>.html</code>), deve ser possível ver a peça sem conexão à internet.</li><li>Arquivos iniciados pelo usuário não são considerados parte do peso inicial do arquivo.</li></ul></td></tr>
+        <tr><td>Pacotes</td> <td><p>Todos os criativos devem estar dentro de uma única pasta .zip. Adicionalmente, deve ter apenas 1 arquivo .html na raíz da pasta, na qual se inicia todo o Ad.</p></td></tr>
+        <tr><td>Diretrizes HTML5</td> <td><p>Para mais detalhes, possuímos regras para configurações gerais do HTML, neste link: <a href="https://br.adspecs.yahoo.com/pages/html5/">Diretrizes HTML5</a>.</p></td></tr>
+        <tr><td>Adicionando uma clickTAG ao Swiffy</td> <td><p>Instruções <a href="https://goo.gl/jRXSWN">aqui</a>.</p></td></tr>
+    </tbody>
+</table>
