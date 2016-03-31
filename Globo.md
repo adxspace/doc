@@ -184,3 +184,75 @@ tempo.</p>
 das funcionalidades da biblioteca não é necessária.
  Como alternativa, procure bibliotecas mais leves, como
 a zepto.js</p>
+
+<h1>FORMATOS RICHMEDIA</h1>
+
+<h2>SUPER LEADERBOARD FULLSCREEN</h2>
+
+<p>Peso:
+12 kb na peça de pré
+-
+carregamento + 300 kb da peça principal
++ 2Mb do vídeo.</p>
+
+<p>Dimensões: 
+− <p></p>
+Antes da interação as dimensões da peça são de 970 
+x 90px. <p></p>
+−
+Após o clique do usuário, a peça terá a dimensão da
+ tela (
+fullscreen
+), mas a área útil de 
+criação terá a dimensão de até 1024 x 768px. </p>
+
+<p>Tempo:</p> 
+<p>−
+A peça expandida terá um tempo máximo de animação d
+e 15s.  <br>
+−
+Caso tenha vídeo, a peça terá um tempo total de 15s
+ mais o tempo de duração do vídeo.</p> 
+
+ <p><strong>IMPORTANTE: Durante o carregamento da página só é p
+ermitido o carregamento de 52 kb de 
+arquivos ‘terceiros”, sendo os 12 kb da peça pré + c
+ódigos. Após o carregamento da página é 
+carregada a peça principal + códigos.</strong></p>
+
+<p>Vídeo/Áudio:
+ O vídeo poderá iniciar automaticamente com o áudio
+ desativado, sendo ativado por 
+ação do usuário através de um clique. Caso o vídeo 
+seja acionado por clique do usuário, o áudio já 
+poderá vir ativado. </p>
+
+<p>Orientações Gerais: </p>
+
+<p>−
+A opção desta rich media pode não estar disponível 
+para determinados formatos e sites. 
+Consulte sempre a Opec para saber se há alguma rest
+rição para o canal escolhido. <br>
+−
+A peça poderá ser em Flash 9 ou superior. <br>
+−
+Tendo como base estudos feitos acerca do consumo de
+ CPU, a Globo.com recomenda o uso 
+de 18fps.</p>
+
+<p>Orientações específicas para esta peça: </p>
+<p>−
+O prazo para testes funcionais desta peça é de 
+16 horas úteis<br>
+. 
+−
+Caso a peça tenha o fundo na cor branca, será neces
+sária uma borda de 1 pixel de 
+espessura na cor 
+#e8e8e8<br>
+.  
+−
+O botão fechar deve estar presente no canto superio
+r direito da peça em ambos os 
+momentos, ou seja, antes e depois da interação. </p>
