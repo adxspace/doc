@@ -624,3 +624,74 @@
     </table>
   </div>
 </div>
+<h1>Splash Ad – Image (1440×600)</h1>
+<div class="center">
+
+  <h2>Exemplos</h2>
+  <div id="demos" class="mod demos">
+    <div id="demo-carousel">
+      <div id="demo-nav">
+        <p class="label" id="demo-nav-label"></p>
+        <div class="prev-off" id="demo-nav-prev"></div>
+        <div class="next-on" id="demo-nav-next"></div>
+        <p class="clr"></p>
+      </div>
+      <ul id="demo-carousel-list">
+        <li><a target="_blank" href="https://adgallery.zenfs.com/eng/splash_demo/150114/sprint_tech.html"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f3080_demo1420658628.jpg" alt="Sprint" height="120" width="160"><p>Sprint</p></a></li>
+        <p class="clr"></p>
+      </ul>
+    </div>
+  </div>
+
+
+  <h2 class="noborder">Criativos a entregar</h2>
+  <div class="mod">
+    <table class="table-delivs">
+      <tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
+        <tr><td class="component">Imagem</td><td class="file_type">GIF, JPG, or PNG</td><td class="dims">1440×600 px</td><td class="max_size">200 KB</td></tr>
+        <tr><td class="component">Nome da empresa / Diversos (Opcional)</td><td class="file_type">Texto</td><td class="dims">Máximo de 35 caracteres incluindo espaços (letras maiúsculas, caracteres especiais e números serão considerados como 1,5)</td><td class="max_size">N/A</td></tr>
+        <tr><td class="component">Título (Opcional)</td><td class="file_type">Texto</td><td class="dims">Máximo de 35 caracteres incluindo espaços (letras maiúsculas, caracteres especiais e números serão considerados como 1,5)</td><td class="max_size">N/A</td></tr>
+        <tr><td class="component">Descrição (Opcional)</td><td class="file_type">Texto</td><td class="dims">Máximo de 105 caracteres incluindo espaços (letras maiúsculas, caracteres especiais e números serão considerados como 1,5)</td><td class="max_size">N/A</td></tr>
+
+      </tbody></table>
+  </div>
+
+
+  <h2>Especificações</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Dimensão da Imagem</td> <td class="cke"><p>1440×600 (12:5).&nbsp;</p><p>&nbsp;</p><p>A largura da pagina irá determinar o redimensionamento do criativo. O Ad terá a dimensão da página enquanto mantém sua proporção.</p></td></tr>
+        <tr><td class="speclabel">Localização do Ad</td> <td class="cke"><p><img alt="Image Ad Location" src="http://ads.yimg.com/qq/a/te/techops/image_splash_location_v02.jpg" width="600"></p><p align="center">Linha pontilha representa um display 1280×800</p><p align="center">Na posição do index, aproximadamente 30% do ad será visualizado.</p><p align="center">Na posição de fundo do artigo, não há garantia de que o Ad será visto acima da linha ao carregar a pagina.</p></td></tr>
+        <tr><td class="speclabel">Visuabilidade</td> <td class="cke"><p>Em um monitor 1280×800, aproximadamente 30%* do Splash Ad aparecerá ao carregar da página. Em telas maiores, mais de 50% do criativo pode aparecer na mesma situação.</p><p><br>
+          *Outros fatores como resolução de tela, barras de ferramenta e outros podem impactar a visibilidade.</p></td></tr>
+        <tr><td class="speclabel">Restrições Adicionais</td> <td class="cke"><p>Em um monitor 1280×800, aproximadamente 30%* do Splash Ad aparecerá ao carregar da página. Em telas maiores, mais de 50% do criativo pode aparecer na mesma situação.</p><p><br>
+          *Outros fatores como resolução de tela, barras de ferramenta, e outros podem impactar a visibilidade.</p></td></tr>
+        <tr><td class="speclabel">Texto Overlay (Opcional)</td> <td class="cke"><p>Em um monitor 1280×800, aproximadamente 30%* do Splash Ad aparecerá ao carregar da página. Em telas maiores, mais de 50% do criativo pode aparecer na mesma situação.</p><p><br>
+          *Outros fatores como resolução de tela, barras de ferramenta e outros podem impactar a visibilidade.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Regras Gerais – Rich Media</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Prazo de envio</td> <td class="cke"><p>5 (cinco) dias úteis.</p></td></tr>
+        <tr><td class="speclabel">Policies</td> <td class="cke"><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies/" target="_blank">policies do Yahoo</a></p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>3rd Party – Contador</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Indisponível</p></td></tr>
+        <tr><td class="speclabel">Third Party Tracking</td> <td class="cke"><p>URL redirects e um 1×1 pixel por anúncio</p></td></tr>
+        <tr><td class="speclabel">SSL</td> <td class="cke"><p>Por razões de segurança, URLs de impressão devem ser obrigatoriamente seguras (HTTPS)</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
