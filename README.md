@@ -1,5 +1,5 @@
-<h1>FORMATOS STANDARD ADS<h1>
-<h2>Standard Billboard<h2>
+<h1>FORMATOS STANDARD ADS</h1>
+<h2>Standard Billboard</h2>
 
 <p>O formato Special Billboard aparece automaticamente na página, após seu carregamento completo. O tempo de animação desse formato é de 15 segundos. Após esse período, a peça deve ficar totalmente estática.
 Por se tratar de um formato Rich Media bastante intrusivo, possui recursos para que não se torne incômodo ao usuário. O primeiro deles é o frequency cap, que só permite a experiência completa do anúncio nas duas primeiras visitas do mesmo usuário durante o dia.
