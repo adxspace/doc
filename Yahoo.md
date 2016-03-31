@@ -40,29 +40,6 @@
 	<tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
 		<tr><td>Main Banner</td><td>HTML5 (.zip)</td><td>120×600 px</td><td>200 KB</td></tr>
 		<tr><td>Imagem de Backup</td><td>JPG, GIF, PNG</td><td>120×600 px</td><td>200 KB</td></tr>
-	</tbody>
-</table>
-<h3>Regras Gerais – Rich Media</h3>
-<table>
-	<tbody>
-	<tr><td>Prazo de envio</td> <td><p>5 (cinco) dias úteis.</p></td></tr>
-	<tr><td>Policies</td> <td><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies/" target="_blank">policies do Yahoo</a></p></td></tr>
-	</tbody>
-</table>
-<h3>3rd Party – Contador</h3>
-<table>
-<tbody>
-<tr><td>Third Party Serving</td> <td><p>Indisponível</p></td></tr>
-<tr><td>Third Party Tracking</td> <td><p>URL redirects e um 1×1 pixel por anúncio</p></td></tr>
-<tr><td>SSL</td> <td><p>Por razões de segurança, URLs de impressão devem ser obrigatoriamente seguras (HTTPS)</p></td></tr>
-</tbody>
-</table>
-
-<h2>Criativos a entregar</h2>
-<table>
-	<tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
-		<tr><td>Main Banner</td><td>HTML5 (.zip)</td><td>120×600 px</td><td>200 KB</td></tr>
-		<tr><td>Imagem de Backup</td><td>JPG, GIF, PNG</td><td>120×600 px</td><td>200 KB</td></tr>
 	</tbody></table>
 	<h2>Regras Gerais</h2>
 	<table>
