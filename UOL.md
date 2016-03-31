@@ -37,12 +37,13 @@ Não utilizar as boas práticas descritas neste documento pode impactar negativa
 <h2>HTML</h2>
 <p>Outra possibilidade é feito no próprio elemento HTML, conforme exemplos abaixo:</p>
 <h2>Ex 1 HTML puro:</h2>
-<code>&lt;a href="%%CLICK_URL_ESC%%%%DEST_URL%%" target="_blank" &gt;&lt;/a&gt;</code>
+<pre><code>&lt;a href="%%CLICK_URL_ESC%%%%DEST_URL%%" target="_blank" &gt;&lt;/a&gt;</code></pre>
 
 <h2>Ex 2 HTML + Javascript:</h2>
+<pre>
 <code>  
 var clickTag = '%%CLICK_URL_ESC%%%%DEST_URL%%';
-&lt;a href="javascript: window.open(clickTag, '_blank'); void(0)"&gt;</a&gt;</code>
+&lt;a href="javascript: window.open(clickTag, '_blank'); void(0)"&gt;</a&gt;</code><pre>
 
 <h2>Ex 3 HTML + Javascript em um elemento DIV:</h2>
 <code>&lt;div id="clickArea" onclick="javascript: window.open(clickTag, '_blank'); void(0)" style="cursor:pointer;" &gt;&lt;/div&gt;</code>
