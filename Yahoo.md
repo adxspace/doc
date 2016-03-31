@@ -695,3 +695,88 @@
     </table>
   </div>
 </div>
+<h1>Splash Ad – Video (1440×600)</h1>
+<div class="center">
+
+  <h2>Exemplos</h2>
+  <div id="demos" class="mod demos">
+    <div id="demo-carousel">
+      <div id="demo-nav">
+        <p class="label" id="demo-nav-label"></p>
+        <div class="prev-off" id="demo-nav-prev"></div>
+        <div class="next-on" id="demo-nav-next"></div>
+        <p class="clr"></p>
+      </div>
+      <ul id="demo-carousel-list">
+        <li><a target="_blank" href="https://adgallery.zenfs.com/eng/splash_demo/150114/loreal_beauty.html"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f3057_demo1419992752.jpg" alt="L'Oreal Miss Magna" height="120" width="160"><p>L'Oreal Miss Magna</p></a></li>
+        <li><a target="_blank" href="https://adgallery.zenfs.com/eng/splash_demo/141223/b/peterpan_movies.html"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f3057_demo1419992515.jpg" alt="Peter Pan" height="120" width="160"><p>Peter Pan</p></a></li>
+        <li><a target="_blank" href="https://adgallery.zenfs.com/eng/splash_demo/150114/bmw_travel.html"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f3057_demo1421194921.jpg" alt="BMW" height="120" width="160"><p>BMW</p></a></li>
+        <p class="clr"></p>
+      </ul>
+    </div>
+  </div>
+
+
+  <h2 class="noborder">Criativos a entregar</h2>
+  <div class="mod">
+    <table class="table-delivs">
+      <tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
+        <tr><td class="component">Imagem Estática</td><td class="file_type">GIF, JPG, or PNG</td><td class="dims">1440×600 px</td><td class="max_size">200 KB</td></tr>
+        <tr><td class="component">Video</td><td class="file_type">MOV or MP4</td><td class="dims">16:9 Aspect Ratio</td><td class="max_size"></td></tr>
+        <tr><td class="component">Nome da empresa / Diversos</td><td class="file_type">Texto</td><td class="dims">Máximo de 35 caracteres incluindo espaços (letras maiúsculas, caracteres especiais e números serão considerados como 1,5)</td><td class="max_size">N/A</td></tr>
+        <tr><td class="component">Título (exigido)</td><td class="file_type">Texto</td><td class="dims">Máximo de 35 caracteres incluindo espaços (letras maiúsculas, caracteres especiais e números serão considerados como 1,5)</td><td class="max_size">N/A</td></tr>
+        <tr><td class="component">Descrição</td><td class="file_type">Texto</td><td class="dims">Máximo de 105 caracteres incluindo espaços (letras maiúsculas, caracteres especiais e números serão considerados como 1,5)</td><td class="max_size">N/A</td></tr>
+
+      </tbody></table>
+  </div>
+
+
+  <h2>Especificações</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Dimensões</td> <td class="cke"><p><strong>Video: 16:9 (12:5 conteúdo deve estar dentro de uma caixa 16:9). </strong></p><p><br>
+          <strong>Image Estática: 1440<strong>×</strong>600 (dimensão 12:5).</strong></p><p><br>
+          A largura da página determinará a atual dimensão do criativo. A peça irá ser redimensionada para a largura da pagina enquanto mantém sua proporção correta.</p></td></tr>
+        <tr><td class="speclabel">Duração</td> <td class="cke"><p>15 ou 30 segundos</p></td></tr>
+        <tr><td class="speclabel">Video</td> <td class="cke"><ul><li><strong>Quantidade: </strong>3-10 videos</li><li><strong>Format: </strong>MOV ou MP4</li><li><strong>Bitrate: </strong>5 Mbps recomendado</li><li><strong>Tamanho de arquivo: </strong>Sem limites de tamanho de arquivo em produção.&nbsp; Plataforma irá comprimir em um arquivo de 5mb</li><li><strong>Duração: </strong>15 ou 30 segundos</li></ul></td></tr>
+        <tr><td class="speclabel">Controle de vídeo</td> <td class="cke"><p>Play, pause e som desligado estão disponivéis. Durante o autoplay, ao ativar o play ou ligar o som, o video iniciará do começo com o som ligado.</p><p><br>
+          No Estado expansível, o controle de media ficará visivel ao passar do mouse sobre o Ad.</p><p><br>
+          Qualquer clique no ad enquanto o video está rodando irá redirecionar para a página disponibilizada pelo anunciante.</p></td></tr>
+        <tr><td class="speclabel">Expansão do Ad</td> <td class="cke"><p>No estado inicial do autoplay, o video de 16:9 aparecerá centralizado verticalmente em um container 12:5, Após a iniciação do usuário, o container se expande para 16:9, revelando o video todo. Quando o video termina, o espaço retornará para 12:5 novamente e o video é substituido por uma imagem estática.</p><p>&nbsp;</p><p><img alt="Image Ad Location" src="https://s.yimg.com/qq/a/te/techops/video_splash_location_v02.jpg" width="600"></p><p align="center">12:5 para 16:9.</p></td></tr>
+        <tr><td class="speclabel">Área segura</td> <td class="cke"><p>Certifique-se de a área de foco e mensagem do anunciante está verticalmente centralizada. O container 16:9 é também centralizado dentro do container 12:5</p></td></tr>
+        <tr><td class="speclabel">Localização do Ad</td> <td class="cke"><p><img alt="Image Ad Location" src="https://s.yimg.com/qq/a/te/techops/video_splash_location_v02.jpg" width="600"></p><p><img alt="Image Ad Location" src="https://s.yimg.com/cv/ae/adspecs/us/uploads/video-splash-location-v04_1416948094.jpg" width="600"></p><p align="center">Linha pontilha representa um display 1280×800</p><p align="center">Na posição do index, aproximadamente 30% do ad será visualizado.</p><p align="center">Na posição de fundo do artigo, não há garantia de que o Ad será visto acima da linha ao carregar a página.</p><p align="center"><img alt="Splash Ad SlideShow Location" src="https://s.yimg.com/cv/ae/adspecs/us/uploads/video-splash-location-slideshow-v01_1410471777.jpg" width="600">Linha pontilhada represnta um display 1280×800</p><p align="center">Na visualização do Slideshow, todo o Ad será visto entre imagens no photoset</p></td></tr>
+        <tr><td class="speclabel">Visuabilidade</td> <td class="cke"><p>Em um display 1280x800, aproximadamente 30%* do Splash Ad ira aparecer ao carregar da página. Em telas maiores, mais de 50% do criativo pode aparecer na mesma situação.</p><p><br>
+          *Outros fatores como resolução de tela, toolbars, e outros podem impactar a visuabilidade.</p></td></tr>
+        <tr><td class="speclabel">Texto Overlay</td> <td class="cke"><p>O texto overlay aparece durante o autoplay e é removido após a interação do usuário.O estilo e a fonte do texto é controlada pela folha de estilos Magazine, podendo ficar diferente para cada Magazine existente.<br>
+          &nbsp;</p><p><br>
+          Segue exemplo abaixo:</p><p><br>
+          Nome do Anuciante: até 35 caracteres</p><p>Titulo: até 35 caracteres<br>
+          Descriçao (pode incluir CTA): até 105 caracteres</p></td></tr>
+        <tr><td class="speclabel">Restrições adicionais</td> <td class="cke"><ul><li>Imagem estáticas devem ser ricas e combinar com o design das Magazines Yahoo.</li><li>Ad Copy na imagem estática deve ser limitada para mensagem da marca</li><li>Toda a imagem estática é clicavél para uma página especifica.</li><li>Ads são servidos usando HTML5, para usuários sem o mesmo verá a imagem estática,</li><li>Apenas uma clickURL é permitida.</li></ul></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Regras Gerais – Rich Media</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Prazo de envio</td> <td class="cke"><p>5 (cinco) dias úteis.</p></td></tr>
+        <tr><td class="speclabel">Policies</td> <td class="cke"><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies/" target="_blank">policies do Yahoo</a></p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>3rd Party – Contador</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Indisponível</p></td></tr>
+        <tr><td class="speclabel">Third Party Tracking</td> <td class="cke"><p>URL redirects e um 1×1 pixel por anúncio</p></td></tr>
+        <tr><td class="speclabel">SSL</td> <td class="cke"><p>Por razões de segurança, URLs de impressão devem ser obrigatoriamente seguras (HTTPS)</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
