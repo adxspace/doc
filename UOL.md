@@ -137,3 +137,59 @@ Obs: O uso de animações utilizando o SVG não é recomendado, para isto utiliz
 <p>É essencial que todos anúncios funcionem nos determinados browsers e versões.</p>
 
 <p>Este site: https://html5test.com/results/desktop.html mostra a classificação de cada browser e versão e seu desempenho.</p>
+<h1>FORMATOS</h1>
+
+
+<h2>Super Banner Expansível</h2>
+<p>Evite que a peça fique piscando intermitentemente.<br>
+Sempre que o fundo da peça for o mesmo da página coloque um fio de contorno, principalmente se a sua peça tiver o fundo branco.<br>
+Todas as peças são publicadas por padrão com o fundo transparente, caso você não queira que a peça fique com esta característica coloque um objeto de fundo.</p>
+<h2>Especificações técnicas</h2>
+<p>
+<strong>Tamanho Inicial:</strong> 728x90 px<br>
+<strong>Tamanho Expandido:</strong>até 728x300 px<br>
+<strong>Sentido de Expansão: </strong>Para baixo <br>
+<strong>Peso (HTML5):</strong> 150 Kb <br>
+<strong>Backup (GIF/JPEG): </strong>728x90 px - 40 Kb<br><br>
+<strong>Tempo de Animação:</strong> Livre <br>
+<strong>Looping:</strong> Livre<br>
+<strong>Som:</strong> Não pode ter som sem interação do usuário<br>
+<strong>Vídeo:</strong> Aceita vídeos hospedados no Youtube<br>
+<strong>Tag de Terceiro:</strong> Aceita<br.
+<strong>Funcionamento:</strong> A animação deve ser construída em um único HTML. Quando o usuário passar o mouse sobre o banner (mouseOver) ele deve expandir e quando o usuario retirar o mouse (mouseOut) o banner deve retornar para o tamanho inicial (728x90).</p>
+
+<p><img src="http://cb.i.uol.com.br/uolpublicidade/formatos/superbanner-expansivel.jpg"></p>
+<dl> <dt>Exemplo</dt> <dd class="first"><a href="http://insercao.uol.com.br/galeria/galeria.php?id=2002a" target="_blank">Veja a demonstração</a></dd> </dl>
+
+<h1>FORMATOS</h1>
+
+
+<h2>Halfpage Expansível</h2>
+<p>Evite que a peça fique piscando intermitentemente.<br>
+Sempre que o fundo da peça for o mesmo da página coloque uma borda, principalmente se a sua peça tiver o fundo branco.<br>
+Todas as peças são publicadas por padrão com o fundo transparente, caso você não queira que a peça fique com esta característica coloque um objeto de fundo.</p>
+<h2>Especificações técnicas</h2>
+<p>
+<strong>Tamanho Inicial:</strong> 300x600 px<br>
+<strong>Tamanho Expandido:</strong>até 940x600 px <br>
+<strong>Sentido de Expansão: </strong>Para a esquerda <br>
+<strong>Peso (HTML5):</strong> 150 Kb <br>
+<strong>Backup (GIF/JPEG): </strong>300x600 px - 40kb <br><br>
+<strong>Tempo de Animação:</strong> Livre <br>
+<strong>Looping:</strong> Livre<br>
+<strong>Som:</strong> Não pode ter som sem interação do usuário<br>
+<strong>Vídeo:</strong> Aceita vídeos hospedados no Youtube<br>
+<strong>Tag de Terceiro:</strong> Aceita<br.
+<strong>Funcionamento:</strong>A animação deve ser construída em um único HTML. Quando o usuário passar o mouse sobre o banner (mouseOver) ele deve expandir e quando o usuario retirar o mouse (mouseOut) o banner deve retornar para o tamanho inicial (300x600 px).</p>
+
+<p><img src="http://bn.imguol.com/1009/half-page-expansivel.jpg"></p>
+<dl> <dt>Exemplo</dt> <dd class="first"><a href="http://insercao.uol.com.br/galeria/galeria.php?id=2002a" target="_blank">Veja a demonstração</a></dd> </dl>
+
+<h1>Web Alto Impacto</h1>
+<h2>Barra 1280 - Intervenção</h2>
+
+<h3>Especificações técnicas</h3>
+<dd> <strong>Tamanho Inicial:</strong> 200x446 px <br> <strong>Tamanho Expandido:</strong> min 1190x446 px - max 1190x700 px <br> <strong>Sentido de Expansão :</strong> Para Esquerda e para baixo <br> <strong>Peso HTML5:</strong> Inicial 150kb | Expandido - até 2mb <br> <strong>Backup (GIF/JPEG) :</strong> 200x446 - 40 Kb<br> <strong>Tempo de Animação :</strong> Livre <br> <strong>Looping :</strong> Livre<br> <strong>Som: </strong>Não pode ter som sem interação do usuário.<br> <strong>Vídeo: </strong>Aceita vídeos hospedados no Youtube.<br> <strong>Tag de Terceiro: </strong>Aceita<br> <br> <strong>Funcionamento:</strong> A "Barra 1280 - Intervenção" deve ser construída em 2 HTMLs, sendo um HTML com o formato retraído (200x446px) e o outro HTML com o formato expandido (min 1190x446 px max 1190x700px). </dd>
+
+<p><img src="http://cb.i.uol.com.br/uolpublicidade/formatos/barra-1280-home.jpg"></p>
+<dl> <dt>Exemplo</dt> <dd class="first"><a href="http://pubads.g.doubleclick.net/gampad/preview_cookie?gct=I2BR1rrYrCAY0IjYtgUw0KSNvgWIAYCAgKDT1_r5iQE&op=set&redirect=http://uol.com.br&redirect_hash=AJlzBa0BYy4Ct3GlVYbFHaS2TRIatSm__Q&lineItemId=278109286&creativeId=99201127246" target="_blank">Veja a demonstração</a></dd> </dl>
