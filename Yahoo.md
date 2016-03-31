@@ -3,7 +3,9 @@
 <p>O formato Special Billboard aparece automaticamente na página, após seu carregamento completo. O tempo de animação desse formato é de 15 segundos. Após esse período, a peça deve ficar totalmente estática.</p>
 <p>Por se tratar de um formato Rich Media bastante intrusivo, possui recursos para que não se torne incômodo ao usuário. O primeiro deles é o frequency cap, que só permite a experiência completa do anúncio nas duas primeiras visitas do mesmo usuário durante o dia.</p>
 <p>O outro é um cookie que memoriza se um usuário fechou o anúncio, mesmo após ter saído da página. Sendo assim, para os usuários que o fecharam, mesmo retornando à página posteriormente, continuarão a ver a versão fechada, porém o retângulo 300×250 irá aparecer. Nada impede que este usuário abra o anúncio novamente, se assim quiser.</p>
-<h1>Criativos a entregar</h1>
+
+
+<h2>Criativos a entregar</h2>
 <table>
 	<tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
 	<tr><td>Banner</td><td>HTML 5 (.zip)</td><td class="dims">970×250 px</td><td class="max_size">200 KB</td></tr>
@@ -30,6 +32,14 @@
 		<tr><td>Peso máximo dos arquivos</td> <td ><ul><li>Peso máximo ao carregar: 200 KB</li><li>Peso máximo para peças interativas: 300 KB</li><li>Peso máximo para videos interativos: 1.1 MB</li><li>Peso máximo ao usuário carregar arquivo: 2.2 MB</li></ul></td></tr>
 		<tr><td>Peso máximo dos arquivos</td> <td ><ul><li>O peso total é calculado após a descompressão de TODOS os arquivos necessários de dentro do <code>.zip</code>. Se após a descompressão do <code>.zip</code> o total for maior que o especificado para o formato, serão pedidos ajustes.</li><li>Quando o arquivo <code>.zip</code> é descompresso (em um arquivo<code> .html</code>), deve ser possível visualizar a peça sem conexão à internet.</li><li>Arquivos iniciados pelo usuário não são considerados parte do peso inicial do arquivo.</li><li>Todos arquivos fonte (<code>.an</code>, <code>CSS</code>, <code>JS</code>, etc) devem ser enviados.</li></ul></td></tr>
 		<tr><td>HTML5 Guideline</td> <td ><p>Para mais detalhes, possuímos regras para para configurações gerais do HTML, neste link: <a href="https://br.adspecs.yahoo.com/pages/html5/">Diretrizes HTML5</a>.</p></td></tr>
+	</tbody>
+</table>
+<h1>120×600 LAN Sky</h1>
+<h2>Criativos a entregar</h2>
+<table>
+	<tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
+		<tr><td>Main Banner</td><td>HTML5 (.zip)</td><td>120×600 px</td><td>200 KB</td></tr>
+		<tr><td>Imagem de Backup</td><td>JPG, GIF, PNG</td><td>120×600 px</td><td>200 KB</td></tr>
 	</tbody>
 </table>
 <h3>Regras Gerais – Rich Media</h3>
