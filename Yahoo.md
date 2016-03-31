@@ -112,18 +112,19 @@
         <tr><td>Adicionando uma clickTAG ao Swiffy</td> <td><p>Instruções <a href="https://goo.gl/jRXSWN">aqui</a>.</p></td></tr>
     </tbody>
 </table>
+<div>
 <h1>Texto com Imagem 120×45 (TL1)</h1>
 <h2>Criativos a entregar</h2>
-    <div>
+    
     <table>
         <tbody>
         <tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
         <tr><td>Imagem</td><td>JPG, GIF</td><td>120×45 px</td><td>5 KB</td></tr>
         </tbody>
     </table>
-    </div>
+    
 <h2>Detalhes</h2>
-    <div>
+
     <table>
                 <tbody>
                 <tr><td>Texto</td> <td><p>• Máximo de 5 linhas e 22 caracteres.<br>
@@ -153,7 +154,7 @@
 • Os vendors third-party certificados podem rodar no máximo uma imagem de 1×1 (tracking pixel) para cada execução do criativo. Mais detalhes na nossa política de tracking de third party.</p></td></tr>
                 </tbody>
     </table>
-    </div>
+</div>
 <h2>Regras Gerais</h2>
     <div><table>
         <tbody>
