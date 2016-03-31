@@ -256,3 +256,78 @@ espessura na cor
 O botão fechar deve estar presente no canto superio
 r direito da peça em ambos os 
 momentos, ou seja, antes e depois da interação. </p>
+
+
+
+<h2>
+SUPER LEADERBOARD EXPANSÍVEL
+</h2>
+
+<p><strong>
+	Peso
+</strong>
+ 12 kb na peça de pré
+-
+carregamento + 300 kb da peça principal
++ 2Mb do vídeo.
+</p>
+
+<p><strong>
+	Dimensões: 
+</strong><br>
+Antes da interação as dimensões são as mesmas do Su
+per Leaderboard  970 x 90px. 
+<br>
+Após o clique do usuário, a peça expandida terá 970
+ X 250px
+</p>
+
+<p><strong>
+IMPORTANTE: Durante o carregamento da página só é p
+ermitido o carregamento de 52 kb de 
+arquivos  “terceiros”, sendo os 12 kb da peça pré + c
+ódigos. Após o carregamento da página é 
+carregada a peça principal + códigos.
+</strong></p>
+
+<p><strong>
+	<!-- especificações add -->Especificações Adicionais:
+</strong></p>
+
+<p>
+	Vídeo/Áudio:
+ Após a interação o vídeo poderá iniciar automatica
+mente com o áudio desativado, 
+sendo ativado por ação do usuário através de um cli
+que. Caso o vídeo seja acionado por clique do 
+usuário, o áudio já poderá vir ativado. 	<br>
+	Caso a peça tenha o fundo na cor branca, será neces
+sária uma borda de 1 pixel de espessura na 
+cor 
+#e8e8e8
+. 
+</p>
+
+<p><strong>
+	Orientações Gerais:
+</strong><br>
+A opção desta rich media pode não estar disponível 
+para determinados formatos e sites. 
+Consulte sempre a Opec para saber se há alguma rest
+rição para o canal escolhido. 
+<br>
+A peça poderá ser em Flash 9 ou superior. 
+<br>
+Tendo como base estudos feitos acerca do consumo de
+ CPU, a Globo.com recomenda o uso 
+de 18fps.
+</p>
+
+<p><strong>
+Orientações específicas para esta peça: 
+</strong><br>O prazo para testes funcionais desta peça é de 
+16 horas úteis
+. <br>
+O botão fechar deve estar presente no canto superio
+r direito da peça depois da interação
+</p>
