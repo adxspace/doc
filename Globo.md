@@ -331,3 +331,75 @@ Orientações específicas para esta peça:
 O botão fechar deve estar presente no canto superio
 r direito da peça depois da interação
 </p>
+
+<h2>
+SUPER LEADERBOARD CUBO 
+</h2>
+
+<p><strong>
+Peso
+</strong>
+12 kb na peça de pré-carregamento + 300 kb da peça principal + 2Mb do vídeo.
+
+</p>
+
+<p><strong>
+Dimensão
+</strong><br>
+Antes da interação as dimensões da peça são de até 970 x 90px. 
+
+<br>
+Após o clique do usuário, a peça simulará uma intervenção do conteúdo da página e a área
+útil de criação terá a dimensão de 1055 x 650px (Home da Globo.com). 
+
+</p>
+
+<p><strong>
+Tempo
+</strong></p>
+<p>
+	<!-- temp1 -->A peça expandida terá um tempo máximo de animação de 15s. 
+
+</p>
+<p>
+	<!-- temp2 -->Caso tenha vídeo, a peça terá um tempo total de 15s mais o tempo de duração do vídeo. 
+</p>
+
+
+
+<p>
+	Vídeo/Áudio: O vídeo poderá iniciar automaticamente com o áudio desativado, sendo ativado por
+ação do usuário através de um clique. Caso o vídeo seja acionado por clique do usuário, o áudio já
+poderá vir ativado. 
+
+	<br>
+	<!-- video audio -->
+</p>
+
+<p><strong>
+Orientações Gerais:
+</strong><br>
+A opção desta rich media pode não estar disponível para determinados formatos e sites.
+Consulte sempre a Opec para saber se há alguma restrição para o canal escolhido. 
+
+<br>
+A peça poderá ser em Flash 9 ou superior. 
+
+<br>
+Tendo como base estudos feitos acerca do consumo de CPU, a Globo.com recomenda o uso
+de 18fps.
+</p>
+
+<p><strong>
+Orientações específicas para esta peça:
+</strong><br>
+− O prazo para testes funcionais desta peça é de 16 horas úteis. 
+<br>
+O cubo só executa mediante clique do usuário. 
+<br>
+ Caso a peça tenha o fundo na cor branca, será necessária uma borda de 1 pixel de
+espessura na cor #e8e8e8. 
+<br>
+O botão fechar deve estar presente no canto superior direito da peça em ambos os
+momentos, ou seja, antes e depois da interação. 
+</p>
