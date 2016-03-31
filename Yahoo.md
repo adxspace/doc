@@ -112,6 +112,64 @@
         <tr><td>Adicionando uma clickTAG ao Swiffy</td> <td><p>Instruções <a href="https://goo.gl/jRXSWN">aqui</a>.</p></td></tr>
     </tbody>
 </table>
+<h1>Texto com Imagem 120×45 (TL1)</h1>
+<h2>Criativos a entregar</h2>
+    <div>
+    <table>
+        <tbody>
+        <tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
+        <tr><td>Imagem</td><td>JPG, GIF</td><td>120×45 px</td><td>5 KB</td></tr>
+        </tbody>
+    </table>
+    </div>
+<h2>Detalhes</h2>
+    <div><table class="table-speclist">
+                        <tbody>
+                        <tr><td class="speclabel">Texto</td> <td class="cke"><p>• Máximo de 5 linhas e 22 caracteres.<br>
+• Mínimo de 3 linhas.</p><p>• Números, símbolos e letras maiúsculas serão calculados como 1,5 caractere.<br>
+• Aplicar negrito em parte do texto é permitido. Entretanto, ao fazer a contagem de caracteres, letras em negrito serão consideradas como 2 caracteres, devido ao espaço que utilizam.</p><p>• Tanto texto quanto imagem são links.</p></td></tr>
+                        <tr><td class="speclabel">Borda</td> <td class="cke"><p>Imagem deve ter fundo transparente e incluir borda de 1 pixel</p></td></tr>
+                        <tr><td class="speclabel">Informações Importantes</td> <td class="cke"><p>• Somente imagens estáticas;<br>
+• Imagem deve ser relacionada ao texto;<br>
+• O nome da marca deve estar exposto, ou no texto, ou na imagem;<br>
+• Criativos devem estar em português;<br>
+• Números, símbolos e letras maiúsculas serão contados como 1,5 caracteres;<br>
+• Deve listar todos URLs sem “www”;<br>
+• Sem abreviações;<br>
+• Sem travessões ou reticências;<br>
+• O texto não deve estar todo em caixa alta;<br>
+• Sem cifrão ($), a menos que haja um preço logo em seguida;<br>
+• Sem pontos de exclamação;<br>
+• Sem palavreado insinuante, como “clique agora” ou “clique aqui”;<br>
+• Sem número de telefone no texto;<br>
+• Cores e tamanho de fonte são fixos;<br>
+• A contagem de caracteres inclui espaços;<br>
+• Deve prover link para landing page; não começar um download automático;<br>
+• Sem pop-ups ou pop-unders na landing page;<br>
+• A oferta no creative precisa estar presente na landing page, acima do fold;<br>
+• O botão “voltar” deve estar habilitado na landing page do anunciante;<br>
+• Todos os criativos estão sujeitos a aprovação do Yahoo;<br>
+• Os vendors third-party certificados podem rodar no máximo uma imagem de 1×1 (tracking pixel) para cada execução do criativo. Mais detalhes na nossa política de tracking de third party.</p></td></tr>
+                        </tbody>
+                        </table></div>
+<h2>Regras Gerais</h2>
+    <div><table>
+        <tbody>
+        <tr><td>Prazo de Envio</td> <td><p>3 (três) dias úteis</p></td></tr>
+        <tr><td>Policies</td> <td><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies">policies do Yahoo</a></p></td></tr>
+        </tbody>
+    </table>
+    </div>
+<h2>3rd Party – Contador</h2>
+    <div><table>
+        <tbody>
+        <tr><td>Third Party Serving</td> <td><p>Indisponível</p></td></tr>
+        <tr><td>Third Party Tracking</td> <td><p>URL redirects e um 1×1 pixel por anúncio</p></td></tr>
+        <tr><td>SSL</td> <td><p>Por razões de segurança, URLs de impressão devem ser obrigatoriamente seguras (HTTPS)</p></td></tr>
+        </tbody>
+    </table>
+    </div>
+
 
 <h1>Texto com Imagem 300×140 (M)</h1>
 <h2>Criativos a entregar</h2>
@@ -124,9 +182,9 @@
     </table>
     </div>
 <h2>Detalhes</h2>
-   <div class="mod">
-                        <p class="desc"></p>
-                        <table class="table-speclist">
+   <div>
+    
+                        <table>
                         <tbody>
                         <tr><td>Texto</td> <td><p>• 6 linhas de texto (3 relacionadas para cada uma das imagens)<br>
 • 34 caracteres por linha (incluindo espaços)</p><p>• Números, símbolos e letras maiúsculas serão calculados como 1,5 caractere<br>
