@@ -25,11 +25,11 @@ Não utilizar as boas práticas descritas neste documento pode impactar negativa
 <p>Uma forma simples de usar a variável clickTag é atribuir o href dinamicamente após o carregamento da página via JavaScript:</p>
 <pre>
 <code>
-<a href="" id="clickArea" target="_blank"></a>
-<script type="text/javascript">
+&lt; href="" id="clickArea" target="_blank">&gt;
+&lt;script type="text/javascript">
     var clickTag = "%%CLICK_URL_ESC%%%%DEST_URL%%";
     document.getElementById('clickArea').href = clickTag;   
-</script>
+&lt;/script&gt;
 </code>
 </pre>pre>
 <p>Obs. Lembrando que a 'clickArea' precisa existir em seu HTML e seja a área clicável para redirecionamento. Além disso a chamada javascript deve vir após a existência do elemento clickArea no HTML. </p>
@@ -37,20 +37,21 @@ Não utilizar as boas práticas descritas neste documento pode impactar negativa
 <h2>HTML</h2>
 <p>Outra possibilidade é feito no próprio elemento HTML, conforme exemplos abaixo:</p>
 <h2>Ex 1 HTML puro:</h2>
-<code><a href="%%CLICK_URL_ESC%%%%DEST_URL%%" target="_blank" ></a></code>
+<code>&lt;a href="%%CLICK_URL_ESC%%%%DEST_URL%%" target="_blank" &gt;&lt;/a&gt;</code>
 
 <h2>Ex 2 HTML + Javascript:</h2>
 <code>  
 var clickTag = '%%CLICK_URL_ESC%%%%DEST_URL%%';
-<a href="javascript: window.open(clickTag, '_blank'); void(0)"></a></code>
+&lt;a href="javascript: window.open(clickTag, '_blank'); void(0)"&gt;</a&gt;</code>
 
 <h2>Ex 3 HTML + Javascript em um elemento DIV:</h2>
-<code><div id="clickArea" onclick="javascript: window.open(clickTag, '_blank'); void(0)" style="cursor:pointer;" ></div</code>
+<code>&lt;div id="clickArea" onclick="javascript: window.open(clickTag, '_blank'); void(0)" style="cursor:pointer;" &gt;&lt;/div&gt;</code>
 <p>Obs. No uso de DIV clicável, ela deve sempre exibir o cursor de 'mão'.</p>
 
 <h2>Múltiplos Cliques</h2>
 <p>Em casos de várias urls de clique dentro do mesmo anúncio, declare as variáveis de click da seguinte forma: clickTag, clickTag1, clickTag2, caso deseje utilizar via javascript.</p>
-<code>var clickTag = "%%CLICK_URL_ESC%%http://www.uol.com.br"; <br>
+<pre><code>
+var clickTag = "%%CLICK_URL_ESC%%http://www.uol.com.br"; <br>
 var clickTag1 = "%%CLICK_URL_ESC%%http://economia.uol.com.br";<br>
 var clickTag2 = "%%CLICK_URL_ESC%%http://esporte.uol.com.br";<br>
-var clickTag3 = "%%CLICK_URL_ESC%%http://entretenimento.uol.com.br";</code>
+var clickTag3 = "%%CLICK_URL_ESC%%http://entretenimento.uol.com.br";</code></pre>
