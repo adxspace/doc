@@ -154,24 +154,24 @@
 • Os vendors third-party certificados podem rodar no máximo uma imagem de 1×1 (tracking pixel) para cada execução do criativo. Mais detalhes na nossa política de tracking de third party.</p></td></tr>
                 </tbody>
     </table>
-</div>
+
 <h2>Regras Gerais</h2>
-    <div><table>
+   <table>
         <tbody>
         <tr><td>Prazo de Envio</td> <td><p>3 (três) dias úteis</p></td></tr>
         <tr><td>Policies</td> <td><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies">policies do Yahoo</a></p></td></tr>
         </tbody>
     </table>
-    </div>
+ 
 <h2>3rd Party – Contador</h2>
-    <div><table>
+   <table>
         <tbody>
         <tr><td>Third Party Serving</td> <td><p>Indisponível</p></td></tr>
         <tr><td>Third Party Tracking</td> <td><p>URL redirects e um 1×1 pixel por anúncio</p></td></tr>
         <tr><td>SSL</td> <td><p>Por razões de segurança, URLs de impressão devem ser obrigatoriamente seguras (HTTPS)</p></td></tr>
         </tbody>
     </table>
-    </div>
+</div>
 
 
 <h1>Texto com Imagem 300×140 (M)</h1>
