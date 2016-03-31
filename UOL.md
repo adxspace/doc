@@ -56,3 +56,84 @@ var clickTag = "%%CLICK_URL_ESC%%http://www.uol.com.br"; <br>
 var clickTag1 = "%%CLICK_URL_ESC%%http://economia.uol.com.br";<br>
 var clickTag2 = "%%CLICK_URL_ESC%%http://esporte.uol.com.br";<br>
 var clickTag3 = "%%CLICK_URL_ESC%%http://entretenimento.uol.com.br";</code></pre>
+
+<p>Caso deseje usar em HTML puro basta adicionar as urls logo após <code>%%CLICK_URL_ESC%%</code> <br>
+Ex:</p>
+
+<pre><code>
+    &lt;a href="%%CLICK_URL_ESC%%http://www.uol.com.br" target="_blank" &gt;Clique 1&lt;/a&gt;<br>
+    &lt;a href="%%CLICK_URL_ESC%%%%DEST_URL%%http://economia.uol.com.br" target="_blank"&gt;Clique 2 &lt;/a&gt;<br>
+    &lt;a href="%%CLICK_URL_ESC%%%%DEST_URL%%http://esporte.uol.com.br" target="_blank"&gt;Clique 3  &lt;/a&gt;<br>
+    &lt;a href="%%CLICK_URL_ESC%%%%DEST_URL%%http://entretenimento.uol.com.br" target="_blank"&gt;Clique 4 &lt;/a&gt;<br>
+</code></pre>
+
+<h2>Backup</h2>
+
+<p>Os anúncios devem servir imagem de backup para os browsers que não oferecem suporte à HTML5. 
+O mesmo deve ocorrer se algum recurso externo não esteja disponível. Por exemplo no uso de XML para peças dinâmicas.</p>
+
+<h2>Scripts</h2>
+<p>Não recomendamos:</p>
+<p>Usar frameworks javascript como jQuery, Prototype, YUI, Dojo, MooTools, EXTJS e AngularJS pois a probabilidade da página já utilizar um desses recursos é grande e o uso em um anúncio pode comprometer o funcionamento da página ou de outros anúncios.
+Não recomendamos o uso de jQuery pois além de comprometer outras funcionalidades da página, serão adicionados 97KB e neste caso pode-se optar por zepto.js que conta com as principais funções e mesma sintaxe, porém com 9.1KB</p>
+
+<h2>Recomendamos:</h2>
+<p>Minifying, existem ferramentas online que fazem a compressão (minifying) de scripts, além disso os principais editores de código também contam com essa funcionalidade.</p>
+
+<h2>Imagens</h2>
+
+<p>Muitos efeitos (como o gradiente) são possíveis com o uso de CSS. (http://www.cssmatic.com/gradient-generator e http://www.w3schools.com/css/)<br>
+Para uso de vetores as melhores opções são SVG (http://www.w3schools.com/svg/ e https://css-tricks.com/using-svg/ e PNG <br>
+O uso de PNG e JPG como 'Save for web do Photoshop', não usam a melhor compreensão. logo experimente outras opções como TinyPNG (https://tinypng.com/ ) e TinyJPG (https://tinyjpg.com/)<br>
+Obs: O uso de animações utilizando o SVG não é recomendado, para isto utilize o canvas.</p>
+
+
+<h2>Fontes</h2>
+
+<p>Fontes fora do padrão do sistema acrescentarão diversos KBs ao anúncio, podendo aumentar consideravelmente o tempo de carregamento. Sempre que possível utilize suas fontes como imagens/vetor ou defina-as em classes css especificas</p>
+
+<p>Google Fonts: (https://developers.google.com/fonts/docs/getting_started): Biblioteca com 698 fontes para uso livre ou integrado ao Google Web Designer.</p>
+
+<p>Fontsquirrel: (http://www.fontsquirrel.com/tools/webfont-generator ): Faz a conversão de fontes proprietárias para formatos WebFonts, reduzindo o peso.</p>
+
+<p>Font Subsetting: http://demosthenes.info/blog/878/Slash-Page-Load-Times-With-CSS-Font-Subsetting: Técnica para reduzir peso de fontes, utilizando apenas o necessário</p>
+
+<h2>CSS</h2>
+
+<p>Nunca use CSS em tags globais como: body, div, span. Isso pode interferir na página e essa boa prática garante que o CSS será aplicado apenas nos elementos corretos do seu anúncio. Coloque CSS in-line ou crie seus próprios IDs ou Classes que não sejam genéricos. Por ex: container, wrapper, header, etc.</p>
+
+<h2>Vídeo</h2>
+
+<p>Para o uso de vídeo, recomendamos o uso do player do Youtube embedado. Além disso com algumas restrições abaixo:</p>
+
+<h3>Autoplay:</h3>
+<p>Não recomendamos o uso e não permitimos o uso sem polite download. </p>
+<p>Browsers como Safari e Opera não aceitam este atributo, assim como iPad e iPhone.</p>
+
+<h3>Poster:</h3>
+<p>É importante adicionar o thumb enquanto o vídeo não é carregado.</p>
+
+<h3>Controls:</h3>
+<p>Caso não desenvolva os próprios controles, este atributo é necessário para que o usuário tenha o controle do vídeo.</p>
+
+<h3>Track:</h3>
+<p>Se houver a necessidade de legenda externa nos vídeos, deve-se observar que esta tag funciona apenas nos browsers abaixo a partir das versões:</p>
+- Google Chome 18+<br>
+- Internet Explorer 10+<br>
+- Mozilla Firefox: 31+<br>
+- Safari 6+<br>
+- Opera 15+<br>
+
+
+<h2>Browsers Suportados</h2>
+
+<p>Todos os browsers modernos suportam o uso de HTML5:</p>
+- Chrome 40+<br>
+- Firefox 35+<br>
+- Internet Explorer 10+ (incluindo Edge)<br>
+- Opera 20+<br>
+- Safari 7.0+<br>
+
+<p>É essencial que todos anúncios funcionem nos determinados browsers e versões.</p>
+
+<p>Este site: https://html5test.com/results/desktop.html mostra a classificação de cada browser e versão e seu desempenho.</p>
