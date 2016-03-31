@@ -123,13 +123,14 @@
     </table>
     </div>
 <h2>Detalhes</h2>
-    <div><table class="table-speclist">
-                        <tbody>
-                        <tr><td class="speclabel">Texto</td> <td class="cke"><p>• Máximo de 5 linhas e 22 caracteres.<br>
+    <div>
+    <table>
+                <tbody>
+                <tr><td>Texto</td> <td><p>• Máximo de 5 linhas e 22 caracteres.<br>
 • Mínimo de 3 linhas.</p><p>• Números, símbolos e letras maiúsculas serão calculados como 1,5 caractere.<br>
 • Aplicar negrito em parte do texto é permitido. Entretanto, ao fazer a contagem de caracteres, letras em negrito serão consideradas como 2 caracteres, devido ao espaço que utilizam.</p><p>• Tanto texto quanto imagem são links.</p></td></tr>
-                        <tr><td class="speclabel">Borda</td> <td class="cke"><p>Imagem deve ter fundo transparente e incluir borda de 1 pixel</p></td></tr>
-                        <tr><td class="speclabel">Informações Importantes</td> <td class="cke"><p>• Somente imagens estáticas;<br>
+                <tr><td>Borda</td> <td><p>Imagem deve ter fundo transparente e incluir borda de 1 pixel</p></td></tr>
+                <tr><td>Informações Importantes</td> <td><p>• Somente imagens estáticas;<br>
 • Imagem deve ser relacionada ao texto;<br>
 • O nome da marca deve estar exposto, ou no texto, ou na imagem;<br>
 • Criativos devem estar em português;<br>
@@ -150,8 +151,9 @@
 • O botão “voltar” deve estar habilitado na landing page do anunciante;<br>
 • Todos os criativos estão sujeitos a aprovação do Yahoo;<br>
 • Os vendors third-party certificados podem rodar no máximo uma imagem de 1×1 (tracking pixel) para cada execução do criativo. Mais detalhes na nossa política de tracking de third party.</p></td></tr>
-                        </tbody>
-                        </table></div>
+                </tbody>
+    </table>
+    </div>
 <h2>Regras Gerais</h2>
     <div><table>
         <tbody>
