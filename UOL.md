@@ -31,7 +31,7 @@ Não utilizar as boas práticas descritas neste documento pode impactar negativa
     document.getElementById('clickArea').href = clickTag;   
 &lt;/script&gt;
 </code>
-</pre>pre>
+</pre>
 <p>Obs. Lembrando que a 'clickArea' precisa existir em seu HTML e seja a área clicável para redirecionamento. Além disso a chamada javascript deve vir após a existência do elemento clickArea no HTML. </p>
 
 <h2>HTML</h2>
@@ -43,7 +43,7 @@ Não utilizar as boas práticas descritas neste documento pode impactar negativa
 <pre>
 <code>  
 var clickTag = '%%CLICK_URL_ESC%%%%DEST_URL%%';
-&lt;a href="javascript: window.open(clickTag, '_blank'); void(0)"&gt; &lt;/a &gt; </code><pre>
+&lt;a href="javascript: window.open(clickTag, '_blank'); void(0)"&gt; &lt;/a &gt; </code></pre>
 
 <h2>Ex 3 HTML + Javascript em um elemento DIV:</h2>
 <code>&lt;div id="clickArea" onclick="javascript: window.open(clickTag, '_blank'); void(0)" style="cursor:pointer;" &gt;&lt;/div&gt;</code>
