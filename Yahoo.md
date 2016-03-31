@@ -780,3 +780,776 @@
     </table>
   </div>
 </div>
+
+<h1>160×600 Expansível</h1>
+<div class="center">
+
+
+
+  <h2 class="noborder">Criativos a entregar</h2>
+  <div class="mod">
+    <table class="table-delivs">
+      <tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
+        <tr><td class="component">Tag do anúncio</td><td class="file_type">HTML5, JPG, GIF</td><td class="dims">Inicial: 160×600px – Expandido: 600×600px</td><td class="max_size">Inicial: 200 KB – Expandido: 200 KB</td></tr>
+
+      </tbody></table>
+  </div>
+
+
+  <h2>Detalhes</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Direção da expansão</td> <td class="cke"><p>Esquerda</p></td></tr>
+        <tr><td class="speclabel">Dimensões máximas</td> <td class="cke"><p>Inicial – 160×600 px</p><p>Expandido – 600×600 px</p></td></tr>
+        <tr><td class="speclabel">Tempo de animação</td> <td class="cke"><p>máximo de 15 segundos</p></td></tr>
+        <tr><td class="speclabel">Botão "Fechar"</td> <td class="cke"><p>Necessário, de modo claro, no canto superior direito do banner expandido</p></td></tr>
+        <tr><td class="speclabel">Pesos Máximos</td> <td class="cke"><p>Peso inicial: 200 KB<br>
+          Peso máximo de carga posterior de arquivos interativos: 300 KB<br>
+          Peso máximo do vídeo: 1,1 MB<br>
+          Peso máximo de carga posterior de arquivos interativos iniciada pelo usuário: 2,2 MB</p></td></tr>
+        <tr><td class="speclabel">Áudio</td> <td class="cke"><p>O áudio só pode ser iniciado após clique do usuário. O estado padrão é mudo.<br>
+          &nbsp;</p></td></tr>
+        <tr><td class="speclabel">Controles de vídeo</td> <td class="cke"><p>O vídeo deve ter, no mínimo, botões para Play, Pause, e Mute.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Regras Gerais – Rich Media</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Prazo de envio</td> <td class="cke"><p>5 (cinco) dias úteis.</p></td></tr>
+        <tr><td class="speclabel">Policies</td> <td class="cke"><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies/" target="_blank">policies do Yahoo</a></p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>3rd Party</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Exclusivamente para tags&nbsp;IFRAME, apenas dos <a href="http://br.adspecs.yahoo.com/thirdparty" target="_blank">vendors certificados pelo Yahoo</a></p></td></tr>
+        <tr><td class="speclabel">Third Party Tracking</td> <td class="cke"><p>URL redirects e um 1×1 pixel por anúncio, dos <a href="http://br.adspecs.yahoo.com/thirdparty">vendors aprovados</a></p></td></tr>
+        <tr><td class="speclabel">SSL</td> <td class="cke"><p>Por razões de segurança, todas as chamadas de arquivos, URLs, pixels e scripts devem ser feitas obrigatoriamente em HTTPS</p></td></tr>
+        <tr><td class="speclabel">HTML5</td> <td class="cke"><p>Tags homologadas previamente deverão ser verificadas separadamente para HTML5, seguindo o processo padrão de certificação.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<h1>300×250 Expansível</h1>
+<div class="center">
+
+  <h2>Exemplos</h2>
+  <div id="demos" class="mod demos">
+    <div id="demo-carousel">
+      <div id="demo-nav">
+        <p class="label" id="demo-nav-label"></p>
+        <div class="prev-off" id="demo-nav-prev"></div>
+        <div class="next-on" id="demo-nav-next"></div>
+        <p class="clr"></p>
+      </div>
+      <ul id="demo-carousel-list">
+        <li><a target="_blank" href="http://ads.yimg.com/qq/ap/br/adtech/br_news1404499847.html"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f327_demo1406730107.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <p class="clr"></p>
+      </ul>
+    </div>
+  </div>
+
+
+  <h2 class="noborder">Criativos a entregar</h2>
+  <div class="mod">
+    <table class="table-delivs">
+      <tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
+        <tr><td class="component">Tag do anúncio</td><td class="file_type">HTML5 (.zip), JPG, GIF</td><td class="dims">Inicial – 300×250 px Expandido - 600×250 px</td><td class="max_size">Inicial – 200 KB Expandido – 200 KB</td></tr>
+
+      </tbody></table>
+  </div>
+
+
+  <h2>Detalhes</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Direção da expansão</td> <td class="cke"><p>Esquerda</p></td></tr>
+        <tr><td class="speclabel">Dimensões Máximas</td> <td class="cke"><p>Inicial – 300×250 px</p><p>Expandido – 600×250 px</p></td></tr>
+        <tr><td class="speclabel">Tempo de animação</td> <td class="cke"><p>máximo de 15 segundos</p></td></tr>
+        <tr><td class="speclabel">Botão "Fechar"</td> <td class="cke"><p>Necessário, de modo claro, no canto superior direito do banner expandido</p></td></tr>
+        <tr><td class="speclabel">Pesos máximos</td> <td class="cke"><p>Peso inicial: 200 KB<br>
+          Peso máximo de carga posterior de arquivos interativos: 300 KB<br>
+          Peso máximo do vídeo: 1,1 MB<br>
+          Peso máximo de carga posterior de arquivos interativos iniciada pelo usuário: 2,2 MB</p></td></tr>
+        <tr><td class="speclabel">Áudio</td> <td class="cke"><p>O áudio só pode ser iniciado após clique do usuário. O estado padrão é mudo.</p></td></tr>
+        <tr><td class="speclabel">Controles de vídeo</td> <td class="cke"><p>O vídeo deve ter, no mínimo, botões para Play, Pause, e Mute.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Regras Gerais – Rich Media</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Prazo de envio</td> <td class="cke"><p>5 (cinco) dias úteis.</p></td></tr>
+        <tr><td class="speclabel">Policies</td> <td class="cke"><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies/" target="_blank">policies do Yahoo</a></p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>3rd Party</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Exclusivamente para tags&nbsp;IFRAME, apenas dos <a href="http://br.adspecs.yahoo.com/thirdparty" target="_blank">vendors certificados pelo Yahoo</a></p></td></tr>
+        <tr><td class="speclabel">Third Party Tracking</td> <td class="cke"><p>URL redirects e um 1×1 pixel por anúncio, dos <a href="http://br.adspecs.yahoo.com/thirdparty">vendors aprovados</a></p></td></tr>
+        <tr><td class="speclabel">SSL</td> <td class="cke"><p>Por razões de segurança, todas as chamadas de arquivos, URLs, pixels e scripts devem ser feitas obrigatoriamente em HTTPS</p></td></tr>
+        <tr><td class="speclabel">HTML5</td> <td class="cke"><p>Tags homologadas previamente deverão ser verificadas separadamente para HTML5, seguindo o processo padrão de certificação.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<h1>728×90 Expansível</h1>
+<div class="center">
+
+  <h2>Exemplos</h2>
+  <div id="demos" class="mod demos">
+    <div id="demo-carousel">
+      <div id="demo-nav">
+        <p class="label" id="demo-nav-label"></p>
+        <div class="prev-off" id="demo-nav-prev"></div>
+        <div class="next-on" id="demo-nav-next"></div>
+        <p class="clr"></p>
+      </div>
+      <ul id="demo-carousel-list">
+        <li><a target="_blank" href="http://ads.yimg.com/qq/ap/br/adtech/test/n-expand-testlink1406756340.html"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f324_demo1406756869.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <p class="clr"></p>
+      </ul>
+    </div>
+  </div>
+
+
+  <h2 class="noborder">Criativos a entregar</h2>
+  <div class="mod">
+    <table class="table-delivs">
+      <tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
+        <tr><td class="component">Tag do anúncio</td><td class="file_type">HTML5 (.zip), JPG, GIF</td><td class="dims">Inicial: 728×90 px – Expandido: 728×315 px</td><td class="max_size">Inicial: 200 KB – Expandido: 200 KB</td></tr>
+
+      </tbody></table>
+  </div>
+
+
+  <h2>Detalhes</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Direção da expansão</td> <td class="cke"><p>Para baixo</p></td></tr>
+        <tr><td class="speclabel">Dimensões máximas</td> <td class="cke"><p>Inicial – 728×90 px</p><p>Expandido – 728×315 px</p></td></tr>
+        <tr><td class="speclabel">Tempo de animação</td> <td class="cke"><p>máximo de 15 segundos</p></td></tr>
+        <tr><td class="speclabel">Botão "Fechar"</td> <td class="cke"><p>Necessário, de modo claro, no canto superior direito do banner expandido</p></td></tr>
+        <tr><td class="speclabel">Pesos máximos</td> <td class="cke"><p>Peso inicial: 200 KB<br>
+          Peso máximo de carga posterior de arquivos interativos: 300 KB<br>
+          Peso máximo do vídeo: 1,1 MB<br>
+          Peso máximo de carga posterior de arquivos interativos iniciada pelo usuário: 2,2 MB</p></td></tr>
+        <tr><td class="speclabel">Áudio</td> <td class="cke"><p>O áudio só pode ser iniciado após clique do usuário. O estado padrão é mudo.</p></td></tr>
+        <tr><td class="speclabel">Controles de vídeo</td> <td class="cke"><p>O vídeo deve ter, no mínimo, botões para Play, Pause, e Mute.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Regras Gerais – Rich Media</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Prazo de envio</td> <td class="cke"><p>5 (cinco) dias úteis.</p></td></tr>
+        <tr><td class="speclabel">Policies</td> <td class="cke"><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies/" target="_blank">policies do Yahoo</a></p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>3rd Party</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Exclusivamente para tags&nbsp;IFRAME, apenas dos <a href="http://br.adspecs.yahoo.com/thirdparty" target="_blank">vendors certificados pelo Yahoo</a></p></td></tr>
+        <tr><td class="speclabel">Third Party Tracking</td> <td class="cke"><p>URL redirects e um 1×1 pixel por anúncio, dos <a href="http://br.adspecs.yahoo.com/thirdparty">vendors aprovados</a></p></td></tr>
+        <tr><td class="speclabel">SSL</td> <td class="cke"><p>Por razões de segurança, todas as chamadas de arquivos, URLs, pixels e scripts devem ser feitas obrigatoriamente em HTTPS</p></td></tr>
+        <tr><td class="speclabel">HTML5</td> <td class="cke"><p>Tags homologadas previamente deverão ser verificadas separadamente para HTML5, seguindo o processo padrão de certificação.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<h1>300×250 + Sliver</h1>
+<div class="center">
+
+  <h2>Exemplos</h2>
+  <div id="demos" class="mod demos">
+    <div id="demo-carousel">
+      <div id="demo-nav">
+        <p class="label" id="demo-nav-label"></p>
+        <div class="prev-off" id="demo-nav-prev"></div>
+        <div class="next-on" id="demo-nav-next"></div>
+        <p class="clr"></p>
+      </div>
+      <ul id="demo-carousel-list">
+        <li><a target="_blank" href="http://l.yimg.com/cv/ae/br/adtech/test/102314_EcoSport_AR_testlink_1422298801.html"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f424_demo1422299248.jpg" alt="Clique para ver o link teste" height="120" width="160"><p>Clique para ver o link teste</p></a></li>
+        <p class="clr"></p>
+      </ul>
+    </div>
+  </div>
+
+
+  <h2 class="noborder">Criativos a entregar</h2>
+  <div class="mod">
+    <table class="table-delivs">
+      <tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
+        <tr><td class="component">Banner – Retângulo</td><td class="file_type">HTML 5 (.zip)</td><td class="dims">300×250 px</td><td class="max_size">200 KB</td></tr>
+        <tr><td class="component">Banner – Sliver</td><td class="file_type">HTML 5 (.zip)</td><td class="dims">970×60 px</td><td class="max_size">200 KB</td></tr>
+        <tr><td class="component">Imagem de Backup</td><td class="file_type">JPG, GIF, PNG</td><td class="dims">300×250 px</td><td class="max_size">200 KB</td></tr>
+
+      </tbody></table>
+  </div>
+
+
+  <h2>Detalhes</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Click</td> <td class="cke"><p>Veja aqui nosso <a href="https://br.adspecs.yahoo.com/pages/guia-clicktag/" target="_blank">Guia de Clique.</a></p></td></tr>
+        <tr><td class="speclabel">Mensuração Extra</td> <td class="cke"><p>Veja aqui nosso <a href="https://br.adspecs.yahoo.com/pages/mensuracao-extra/" target="_blank">Guia de Mensuração Extra.</a></p></td></tr>
+        <tr><td class="speclabel">Tempo de Animação</td> <td class="cke"><p>Máximo de 15 segundos. Looping não é permitido</p></td></tr>
+        <tr><td class="speclabel">Borda</td> <td class="cke"><p>Necessária de todos os lados quando a cor de fundo do banner for branca ou outra de tonalidade muito clara</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Especificações HTML5 (Interativo)</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Tipos de imagens suportadas</td> <td class="cke"><p>GIF, JPG, PNG e SVG</p></td></tr>
+        <tr><td class="speclabel">Tipos de videos suportados</td> <td class="cke"><p>MP4 (H.264) e WEBM</p></td></tr>
+        <tr><td class="speclabel">Peso máximo dos arquivos</td> <td class="cke"><ul><li>Peso máximo ao carregar: 200 KB</li><li>Peso máximo para peças interativas: 300 KB</li><li>Peso máximo para videos interativos: 1.1 MB</li><li>Peso máximo ao usuário carregar arquivo: 2.2 MB</li></ul></td></tr>
+        <tr><td class="speclabel">Peso máximo dos arquivos</td> <td class="cke"><ul><li>O peso total é calculado após a descompressão de TODOS os arquivos necessários de dentro do <code>.zip</code>. Se após a descompressão do <code>.zip</code> o total for maior que o especificado para o formato, serão pedidos ajustes.</li><li>Quando o arquivo <code>.zip</code> é descompresso (em um arquivo<code> .html</code>), deve ser possível visualizar a peça sem conexão à internet.</li><li>Arquivos iniciados pelo usuário não são considerados parte do peso inicial do arquivo.</li><li>Todos arquivos fonte (<code>.an</code>, <code>CSS</code>, <code>JS</code>, etc) devem ser enviados.</li></ul></td></tr>
+        <tr><td class="speclabel">HTML5 Guideline</td> <td class="cke"><p>Para mais detalhes, possuímos regras para para configurações gerais do HTML, neste link: <a href="https://br.adspecs.yahoo.com/pages/html5/">Diretrizes HTML5</a>.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Homepage Guidelines</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Número de criativos</td> <td class="cke"><p>Não é permitido rotacionar ads deste formato na homepage.</p><p>Apenas 1 (um) criativo é permitido.</p></td></tr>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Este formato não pode ser veiculado via third party.</p></td></tr>
+        <tr><td class="speclabel">Prazo de envio</td> <td class="cke"><p>5 (cinco) dias utéis.</p></td></tr>
+        <tr><td class="speclabel">Policies</td> <td class="cke"><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies/" target="_blank">policies do Yahoo.</a></p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>3rd Party – Contador</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Indisponível</p></td></tr>
+        <tr><td class="speclabel">Third Party Tracking</td> <td class="cke"><p>URL redirects e um 1×1 pixel por anúncio</p></td></tr>
+        <tr><td class="speclabel">SSL</td> <td class="cke"><p>Por razões de segurança, URLs de impressão devem ser obrigatoriamente seguras (HTTPS)</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<h1>300×250 + West</h1>
+<div class="center">
+
+  <h2>Exemplos</h2>
+  <div id="demos" class="mod demos">
+    <div id="demo-carousel">
+      <div id="demo-nav">
+        <p class="label" id="demo-nav-label"></p>
+        <div class="prev-off" id="demo-nav-prev"></div>
+        <div class="next-on" id="demo-nav-next"></div>
+        <p class="clr"></p>
+      </div>
+      <ul id="demo-carousel-list">
+        <li><a target="_blank" href="http://l.yimg.com/cv/ae/br/adtech/test/test_link1418676251.html"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f425_demo1419336867.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <p class="clr"></p>
+      </ul>
+    </div>
+  </div>
+
+
+  <h2 class="noborder">Criativos a entregar</h2>
+  <div class="mod">
+    <table class="table-delivs">
+      <tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
+        <tr><td class="component">Banner – Retângulo</td><td class="file_type">HTML 5 (.zip)</td><td class="dims">300×250 px</td><td class="max_size">200 KB</td></tr>
+        <tr><td class="component">Banner – West</td><td class="file_type">HTML 5 (.zip)</td><td class="dims">636×100 px</td><td class="max_size">200 KB</td></tr>
+        <tr><td class="component">Imagens de Backup</td><td class="file_type">JPG, GIF, PNG</td><td class="dims">300×250 px e 636×100 px</td><td class="max_size">200 KB</td></tr>
+
+      </tbody></table>
+  </div>
+
+
+  <h2>Detalhes</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Click</td> <td class="cke"><p>Veja aqui nosso <a href="https://br.adspecs.yahoo.com/pages/guia-clicktag/" target="_blank">Guia de Clique.</a></p></td></tr>
+        <tr><td class="speclabel">Mensuração Extra</td> <td class="cke"><p>Veja aqui nosso <a href="https://br.adspecs.yahoo.com/pages/mensuracao-extra/" target="_blank">Guia de Mensuração Extra.</a></p></td></tr>
+        <tr><td class="speclabel">Tempo de Animação</td> <td class="cke"><p>Máximo de 15 segundos. Looping não é permitido</p></td></tr>
+        <tr><td class="speclabel">Borda</td> <td class="cke"><p>Necessária de todos os lados quando a cor de fundo do banner for branca ou outra de tonalidade muito clara</p></td></tr>
+        <tr><td class="speclabel">Guideline West</td> <td class="cke"><p>Siga o nosso guideline disponível <a href="http://l.yimg.com/cv/ae/default/150525/adWest.jpeg" target="new">aqui</a> para posicionar os elementos do West corretamente.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Especificações HTML5 (Interativo)</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Tipos de imagens suportadas</td> <td class="cke"><p>GIF, JPG, PNG e SVG</p></td></tr>
+        <tr><td class="speclabel">Tipos de videos suportados</td> <td class="cke"><p>MP4 (H.264) e WEBM</p></td></tr>
+        <tr><td class="speclabel">Peso máximo dos arquivos</td> <td class="cke"><ul><li>Peso máximo ao carregar: 200 KB</li><li>Peso máximo para peças interativas: 300 KB</li><li>Peso máximo para videos interativos: 1.1 MB</li><li>Peso máximo ao usuário carregar arquivo: 2.2 MB</li></ul></td></tr>
+        <tr><td class="speclabel">Peso máximo dos arquivos</td> <td class="cke"><ul><li>O peso total é calculado após a descompressão de TODOS os arquivos necessários de dentro do <code>.zip</code>. Se após a descompressão do <code>.zip</code> o total for maior que o especificado para o formato, serão pedidos ajustes.</li><li>Quando o arquivo <code>.zip</code> é descompresso (em um arquivo<code> .html</code>), deve ser possível visualizar a peça sem conexão à internet.</li><li>Arquivos iniciados pelo usuário não são considerados parte do peso inicial do arquivo.</li><li>Todos arquivos fonte (<code>.an</code>, <code>CSS</code>, <code>JS</code>, etc) devem ser enviados.</li></ul></td></tr>
+        <tr><td class="speclabel">HTML5 Guideline</td> <td class="cke"><p>Para mais detalhes, possuímos regras para para configurações gerais do HTML, neste link: <a href="https://br.adspecs.yahoo.com/pages/html5/">Diretrizes HTML5</a>.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Homepage Guidelines</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Número de criativos</td> <td class="cke"><p>Não é permitido rotacionar ads deste formato na homepage.</p><p>Apenas 1 (um) criativo é permitido.</p></td></tr>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Este formato não pode ser veiculado via third party.</p></td></tr>
+        <tr><td class="speclabel">Prazo de envio</td> <td class="cke"><p>5 (cinco) dias utéis.</p></td></tr>
+        <tr><td class="speclabel">Policies</td> <td class="cke"><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies/" target="_blank">policies do Yahoo.</a></p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>3rd Party – Contador</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Indisponível</p></td></tr>
+        <tr><td class="speclabel">Third Party Tracking</td> <td class="cke"><p>URL redirects e um 1×1 pixel por anúncio</p></td></tr>
+        <tr><td class="speclabel">SSL</td> <td class="cke"><p>Por razões de segurança, URLs de impressão devem ser obrigatoriamente seguras (HTTPS)</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<h1>Billboard Expansível</h1>
+<div class="center">
+
+  <h2>Exemplos</h2>
+  <div id="demos" class="mod demos">
+    <div id="demo-carousel">
+      <div id="demo-nav" style="display: block;">
+        <p class="label" id="demo-nav-label">Page 1 of 2</p>
+        <div class="prev-off" id="demo-nav-prev"></div>
+        <div class="next-on" id="demo-nav-next"></div>
+        <p class="clr"></p>
+      </div>
+      <ul id="demo-carousel-list" style="margin-left: 0px;">
+        <li><a target="_blank" href="http://yahooact.com/adpreview/php/preview.php?id=vRUkUuRRi9T"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f2705_demo1430146416.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="https://hpto.yahoo.com/archives/archives/fpad/samsung/140502/"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f2705_demo1430146307.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="http://yahooact.com/adpreview/php/preview.php?id=wYIsX7jwsWJ"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f2705_demo1430146145.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="http://yahooact.com/adpreview/php/preview.php?id=iHVhIS74c7Z"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f2705_demo1420561981.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="https://hpto.yahoo.com/archives/archives/fpad/hbo/140629/"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f2705_demo1420561867.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="http://yahooact.com/adpreview/php/preview.php?id=Nnn0z4RyIGw"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f2705_demo1420561731.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="http://ads.yimg.com/qq/ap/default/140606/bk.html"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f2705_demo1402079261.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <p class="clr"></p>
+      </ul>
+    </div>
+  </div>
+
+
+  <h2 class="noborder">Criativos a entregar</h2>
+  <div class="mod">
+    <table class="table-delivs">
+      <tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
+        <tr><td class="component">Banner - Inicial</td><td class="file_type">HTML 5 (.zip)</td><td class="dims">970×250 px</td><td class="max_size">200 KB</td></tr>
+        <tr><td class="component">Banner - Expandido</td><td class="file_type">HTML 5 (.zip)</td><td class="dims">970×500 px</td><td class="max_size">200 KB</td></tr>
+        <tr><td class="component">Imagens de Backup</td><td class="file_type">JPG, GIF</td><td class="dims">970×250 px e 300×250 px</td><td class="max_size">200 KB</td></tr>
+
+      </tbody></table>
+  </div>
+
+
+  <h2>Detalhes</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Click</td> <td class="cke"><p>Veja aqui nosso <a href="https://br.adspecs.yahoo.com/pages/guia-clicktag/" target="_blank">Guia de Clique.</a></p></td></tr>
+        <tr><td class="speclabel">Mensuração Extra</td> <td class="cke"><p>Veja aqui nosso <a href="/pages/mensuracao-extra/" target="_blabk">Guia de Mensuração Extra.</a></p></td></tr>
+        <tr><td class="speclabel">Tempo de animação</td> <td class="cke"><p>Máximo de 15 segundos. Looping não é permitido</p></td></tr>
+        <tr><td class="speclabel">Botão Fechar</td> <td class="cke"><p>Necessário no canto superior esquerdo, com o símbolo "×". Esse botão contrai a peça expandida.</p><p>No canto superior direito, será usado o texto padrão do Yahoo – "Fechar anúncio" – que esconde ambas as peças, base e expandida.</p></td></tr>
+        <tr><td class="speclabel">Imagens de Backup</td> <td class="cke"><ul><li>Dimensões: 970×250 px e 300×250 px</li><li>Formato: JPG/GIF</li><li>Peso: 200 KB</li><li>Devem ser estáticas</li></ul><p>&nbsp;</p><p>A imagem de 970×250 será exibida para os usuários que não podem exibir HTML 5.</p><p>Já a de 300×250 irá aparecer para usuários com JavaScript desabilitado no navegador.</p></td></tr>
+        <tr><td class="speclabel">Borda</td> <td class="cke"><p>Necessária de todos os lados quando a cor de fundo do banner for branca ou outra de tonalidade muito clara</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Especificações HTML5 (Interativo)</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Tipos de imagens suportadas</td> <td class="cke"><p>GIF, JPG, PNG e SVG</p></td></tr>
+        <tr><td class="speclabel">Tipos de videos suportados</td> <td class="cke"><p>MP4 (H.264) e WEBM</p></td></tr>
+        <tr><td class="speclabel">Peso máximo dos arquivos</td> <td class="cke"><ul><li>Peso máximo ao carregar: 200 KB</li><li>Peso máximo para peças interativas: 300 KB</li><li>Peso máximo para videos interativos: 1.1 MB</li><li>Peso máximo ao usuário carregar arquivo: 2.2 MB</li></ul></td></tr>
+        <tr><td class="speclabel">Peso máximo dos arquivos</td> <td class="cke"><ul><li>O peso total é calculado após a descompressão de TODOS os arquivos necessários de dentro do <code>.zip</code>. Se após a descompressão do <code>.zip</code> o total for maior que o especificado para o formato, serão pedidos ajustes.</li><li>Quando o arquivo <code>.zip</code> é descompresso (em um arquivo<code> .html</code>), deve ser possível visualizar a peça sem conexão à internet.</li><li>Arquivos iniciados pelo usuário não são considerados parte do peso inicial do arquivo.</li><li>Todos arquivos fonte (<code>.an</code>, <code>CSS</code>, <code>JS</code>, etc) devem ser enviados.</li></ul></td></tr>
+        <tr><td class="speclabel">HTML5 Guideline</td> <td class="cke"><p>Para mais detalhes, possuímos regras para para configurações gerais do HTML, neste link: <a href="https://br.adspecs.yahoo.com/pages/html5/">Diretrizes HTML5</a>.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Homepage Guidelines</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Número de criativos</td> <td class="cke"><p>Não é permitido rotacionar ads deste formato na homepage.</p><p>Apenas 1 (um) criativo é permitido.</p></td></tr>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Este formato não pode ser veiculado via third party.</p></td></tr>
+        <tr><td class="speclabel">Prazo de envio</td> <td class="cke"><p>5 (cinco) dias utéis.</p></td></tr>
+        <tr><td class="speclabel">Policies</td> <td class="cke"><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies/" target="_blank">policies do Yahoo.</a></p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>3rd Party – Contador</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Indisponível</p></td></tr>
+        <tr><td class="speclabel">Third Party Tracking</td> <td class="cke"><p>URL redirects e um 1×1 pixel por anúncio</p></td></tr>
+        <tr><td class="speclabel">SSL</td> <td class="cke"><p>Por razões de segurança, URLs de impressão devem ser obrigatoriamente seguras (HTTPS)</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<h1>Billboard Interactive Homepage</h1>
+<div class="center">
+
+  <h2>Exemplos</h2>
+  <div id="demos" class="mod demos">
+    <div id="demo-carousel">
+      <div id="demo-nav" style="display: block;">
+        <p class="label" id="demo-nav-label">Page 1 of 2</p>
+        <div class="prev-off" id="demo-nav-prev"></div>
+        <div class="next-on" id="demo-nav-next"></div>
+        <p class="clr"></p>
+      </div>
+      <ul id="demo-carousel-list" style="margin-left: 0px;">
+        <li><a target="_blank" href="http://l.yimg.com/cv/ae/br/adtech/link_test1418312219.html"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f418_demo1432586018.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="http://yahooact.com/adpreview/php/preview.php?id=Oq1cMBU5yDu"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f418_demo1430145945.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="http://yahooact.com/adpreview/php/preview.php?id=RJZmHixTBin"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f418_demo1420561231.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="https://adgallery.zenfs.com/t/21690"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f418_demo1396978935.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="http://yahooact.com/adpreview/php/preview.php?id=FHAl8C6o0rJ"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f418_demo1419338778.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <p class="clr"></p>
+      </ul>
+    </div>
+  </div>
+
+
+  <h2 class="noborder">Criativos a entregar</h2>
+  <div class="mod">
+    <table class="table-delivs">
+      <tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
+        <tr><td class="component">Banner</td><td class="file_type">HTML 5 (.zip)</td><td class="dims">970×250 px</td><td class="max_size">200 KB</td></tr>
+        <tr><td class="component">Imagens de Backup</td><td class="file_type">JPG, GIF, PNG</td><td class="dims">970×250 px e 300×250 px</td><td class="max_size">200 KB</td></tr>
+        <tr><td class="component">Video</td><td class="file_type">MP4 e WEBM</td><td class="dims">até 970x250</td><td class="max_size">2.2 MB</td></tr>
+
+      </tbody></table>
+  </div>
+
+
+  <h2>Detalhes</h2>
+  <div class="mod">
+    <p class="desc"></p><p>Especificações</p><p></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Click</td> <td class="cke"><p>Veja aqui nosso <a href="https://br.adspecs.yahoo.com/pages/guia-clicktag/" target="_blank">Guia de Clique.</a></p></td></tr>
+        <tr><td class="speclabel">Mensuração Extra</td> <td class="cke"><p>Veja aqui nosso <a href="/pages/mensuracao-extra/" target="_blank">Guia de Mensuração Extra.</a></p></td></tr>
+        <tr><td class="speclabel">Tempo de animação</td> <td class="cke"><p>Máximo de 15 segundos. Looping não é permitido</p></td></tr>
+        <tr><td class="speclabel">Botão Fechar</td> <td class="cke"><p>Não é necessário o envio. Um botão <code>Fechar</code> padrão do Yahoo será utilizado</p></td></tr>
+        <tr><td class="speclabel">Imagens de Backup</td> <td class="cke"><ul><li>Dimensões: 970×250 px e 300×250 px</li><li>Formato: JPG, GIF, PNG</li><li>Peso: 200 KB</li><li>Devem ser estáticas</li></ul><p>&nbsp;</p><p>A imagem de 970×250 será exibida para os usuários que não podem exibir HTML 5.</p><p>Já a de 300×250 irá aparecer para usuários com JavaScript desabilitado no navegador</p></td></tr>
+        <tr><td class="speclabel">Borda</td> <td class="cke"><p>Necessária de todos os lados quando a cor de fundo do banner for branca ou outra de tonalidade muito clara</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Especificações HTML5 (Interativo)</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Tipos de imagens suportadas</td> <td class="cke"><p>GIF, JPG, PNG e SVG</p></td></tr>
+        <tr><td class="speclabel">Tipos de videos suportados</td> <td class="cke"><p>MP4 (H.264) e WEBM</p></td></tr>
+        <tr><td class="speclabel">Peso máximo dos arquivos</td> <td class="cke"><ul><li>Peso máximo ao carregar: 200 KB</li><li>Peso máximo para peças interativas: 300 KB</li><li>Peso máximo para videos interativos: 1.1 MB</li><li>Peso máximo ao usuário carregar arquivo: 2.2 MB</li></ul></td></tr>
+        <tr><td class="speclabel">Peso máximo dos arquivos</td> <td class="cke"><ul><li>O peso total é calculado após a descompressão de TODOS os arquivos necessários de dentro do <code>.zip</code>. Se após a descompressão do <code>.zip</code> o total for maior que o especificado para o formato, serão pedidos ajustes.</li><li>Quando o arquivo <code>.zip</code> é descompresso (em um arquivo<code> .html</code>), deve ser possível visualizar a peça sem conexão à internet.</li><li>Arquivos iniciados pelo usuário não são considerados parte do peso inicial do arquivo.</li><li>Todos arquivos fonte (<code>.an</code>, <code>CSS</code>, <code>JS</code>, etc) devem ser enviados.</li></ul></td></tr>
+        <tr><td class="speclabel">HTML5 Guideline</td> <td class="cke"><p>Para mais detalhes, possuímos regras para para configurações gerais do HTML, neste link: <a href="https://br.adspecs.yahoo.com/pages/html5/">Diretrizes HTML5</a>.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Homepage Guidelines</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Número de criativos</td> <td class="cke"><p>Não é permitido rotacionar ads deste formato na homepage.</p><p>Apenas 1 (um) criativo é permitido.</p></td></tr>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Este formato não pode ser veiculado via third party.</p></td></tr>
+        <tr><td class="speclabel">Prazo de envio</td> <td class="cke"><p>5 (cinco) dias utéis.</p></td></tr>
+        <tr><td class="speclabel">Policies</td> <td class="cke"><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies/" target="_blank">policies do Yahoo.</a></p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>3rd Party – Contador</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Indisponível</p></td></tr>
+        <tr><td class="speclabel">Third Party Tracking</td> <td class="cke"><p>URL redirects e um 1×1 pixel por anúncio</p></td></tr>
+        <tr><td class="speclabel">SSL</td> <td class="cke"><p>Por razões de segurança, URLs de impressão devem ser obrigatoriamente seguras (HTTPS)</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<h1>Custon</h1>
+<div class="center">
+
+  <h2>Exemplos</h2>
+  <div id="demos" class="mod demos">
+    <div id="demo-carousel">
+      <div id="demo-nav" style="display: block;">
+        <p class="label" id="demo-nav-label">Page 1 of 2</p>
+        <div class="prev-off" id="demo-nav-prev"></div>
+        <div class="next-on" id="demo-nav-next"></div>
+        <p class="clr"></p>
+      </div>
+      <ul id="demo-carousel-list" style="margin-left: 0px;">
+        <li><a target="_blank" href="http://yahooact.com/adpreview/php/preview.php?id=7qjldWkJmIo"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f1964_demo1430147339.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="https://hpto.yahoo.com/archives/archives/fpad/abc_tv/140925/"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f1964_demo1430146998.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="http://yahooact.com/adpreview/php/preview.php?id=VJiBbi3G1DM"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f1964_demo1430146923.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="http://l.yimg.com/cv/ae/br/adtech/test/121214_HBO_CO_testlink_v3_1418925004.html"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f1964_demo1420562243.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="http://l.yimg.com/cv/ae/br/adtech/test/103114_HBO_MX_testlink_1414791940.html"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f1964_demo1416929389.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="http://l.yimg.com/cv/ae/br/adtech/test/082214_HBO_BR-testlink1416423872.html"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f1964_demo1416929095.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <li><a target="_blank" href="http://ads.yimg.com/qq/ap/default/140606/fiat_custom.html"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f1964_demo1416929197.jpg" alt="Veja o link teste" height="120" width="160"><p>Veja o link teste</p></a></li>
+        <p class="clr"></p>
+      </ul>
+    </div>
+  </div>
+
+
+  <h2 class="noborder">Criativos a entregar</h2>
+  <div class="mod">
+    <table class="table-delivs">
+      <tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
+        <tr><td class="component">Banner – Retângulo</td><td class="file_type">HTML 5 (.zip)</td><td class="dims">300×250 px</td><td class="max_size">200 KB</td></tr>
+        <tr><td class="component">Banner – West</td><td class="file_type">HTML 5 (.zip)</td><td class="dims">636×100 px</td><td class="max_size">200 KB</td></tr>
+        <tr><td class="component">Floating – Autoiniciado</td><td class="file_type">HTML 5 (.zip)</td><td class="dims">760×325 px</td><td class="max_size">200 KB</td></tr>
+        <tr><td class="component">Full Backpage</td><td class="file_type">HTML 5 (.zip)</td><td class="dims">1600×800 px</td><td class="max_size">500 KB</td></tr>
+        <tr><td class="component">Imagens de Backup</td><td class="file_type">JPG, GIF ou PNG</td><td class="dims">300×250 px e 636×100 px</td><td class="max_size">200 KB</td></tr>
+
+      </tbody></table>
+  </div>
+
+
+  <h2>Detalhes - Retângulo e West</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Click</td> <td class="cke"><p>Veja aqui nosso <a href="https://br.adspecs.yahoo.com/pages/guia-clicktag/" target="_blank">Guia de Clique.</a></p></td></tr>
+        <tr><td class="speclabel">Mensuração Extra</td> <td class="cke"><p>Veja aqui nosso <a href="/pages/mensuracao-extra/" target="_blank">Guia de Mensuração Extra.</a></p></td></tr>
+        <tr><td class="speclabel">Tempo de Animação</td> <td class="cke"><p>Máximo de 15 segundos. Looping não é permitido.</p></td></tr>
+        <tr><td class="speclabel">West guideline</td> <td class="cke"><p>Siga o nosso guideline disponível <a href="http://l.yimg.com/cv/ae/default/150525/adWest.jpeg" target="new">aqui</a> para posicionar os elementos do West corretamente.</p></td></tr>
+        <tr><td class="speclabel">Borda</td> <td class="cke"><p>Necessária de todos os lados quando a cor de fundo do banner for branca ou outra de tonalidade muito clara.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Detalhes - Floating Autoiniciado</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Click</td> <td class="cke"><p>Veja aqui nosso <a href="https://br.adspecs.yahoo.com/pages/guia-clicktag/" target="_blank">Guia de Clique.</a></p></td></tr>
+        <tr><td class="speclabel">Tempo de Animação</td> <td class="cke"><p>Máximo de 5 segundos. Fechamento automático. Looping não é permitido.</p></td></tr>
+        <tr><td class="speclabel">Botão Fechar</td> <td class="cke"><ul><li>Necessário no canto superior direito</li><li>Texto "⊗ FECHAR" obrigatório</li><li>Fundo sólido obrigatório</li></ul></td></tr>
+        <tr><td class="speclabel">Frequência</td> <td class="cke"><p>O Floating possui frequência de 1/dia/usuário, para não incomodar o usuário.</p></td></tr>
+        <tr><td class="speclabel">Especificações</td> <td class="cke"><ul><li>Fundo obrigatoriamente transparente;</li><li>Somente os elementos visíveis do Floating poderão ser clicáveis, área transparente não;</li><li>O(s) objeto(s) flutuante(s) não poderão ser maiores do que 200×200 px;</li><li>O(s) objeto(s) flutuante(s) não poderão ser blocos retangulares;</li><li>O(s) objeto(s) flutuante(s) não poderão permanecer parados na mesma posição o tempo todo.</li></ul></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Detalhes - Full Backpage</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Click</td> <td class="cke"><p>Veja aqui nosso <a href="https://br.adspecs.yahoo.com/pages/guia-clicktag/" target="_blank">Guia de Clique.</a></p></td></tr>
+        <tr><td class="speclabel">Mensuração Extra</td> <td class="cke"><p>Veja aqui nosso <a href="/pages/mensuracao-extra/">Guia de Mensuração Extra.</a></p></td></tr>
+        <tr><td class="speclabel">Tempo de Animação</td> <td class="cke"><p>30 segundos. Looping não permitido.</p></td></tr>
+        <tr><td class="speclabel">Borda</td> <td class="cke"><p>Necessária de todos os lados quando a cor de fundo do banner for branca ou outra de tonalidade muito clara.</p></td></tr>
+        <tr><td class="speclabel">Especificações</td> <td class="cke"><ul><li>Pode conter vídeos, jogos, galerias e etc;</li><li>Alguns elementos da peça podem parecer cortados para certas resoluções de tela, utilizem nosso grid, disponível <a href="http://l.yimg.com/cv/ae/default/150525/full_backpage.jpeg" target="new">aqui</a>, como base na hora da criação;</li></ul><p>&nbsp;</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Nota</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Considerações/Avisos</td> <td class="cke"><p>Nossa maior preocupação sempre será a experiência dos nossos usuários. Por isso:</p><p>&nbsp;</p><ul><li>Não serão aceitas ideias que sejam consideradas intrusivas, ou que possam se tornar um incômodo ao usuário;</li><li>Não serão aceitas ideias que possam sugerir ao mesmo que o Yahoo faz parte do anúncio e/ou tem qualquer tipo de relação com o anunciante;</li><li>Não serão aceitas ideias que repliquem funcionalidades do site e que possam confundir nosso usuário;</li><li>Nosso objetivo sempre será chegar o mais próximo possível da ideia inicial da agência, porém não podemos garantir a viabilidade técnica de todas as ideias. Porém, faz parte da nossa analise sugerir soluções alternativas para satisfazer a necessidade do anunciante;</li><li>Mesmo para os formatos custom, continuam valendo as policies do Yahoo:<a href="http://help.yahoo.com/kb/index?page=home&amp;locale=pt_BR&amp;pir=4gk6cKxibUmK6U4A.clWxEKkVxTrX23kEA--" target="_blank"><span style="color:#40e0d0;"> http://br.adspecs.yahoo.com/pages/policies/</span></a></li></ul></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Especificações HTML5 (Interativo)</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Tipos de imagens suportadas</td> <td class="cke"><p>GIF, JPG, PNG e SVG</p></td></tr>
+        <tr><td class="speclabel">Tipos de videos suportados</td> <td class="cke"><p>MP4 (H.264) e WEBM</p></td></tr>
+        <tr><td class="speclabel">Peso máximo dos arquivos</td> <td class="cke"><ul><li>Peso máximo ao carregar: 200 KB</li><li>Peso máximo para peças interativas: 300 KB</li><li>Peso máximo para videos interativos: 1.1 MB</li><li>Peso máximo ao usuário carregar arquivo: 2.2 MB</li></ul></td></tr>
+        <tr><td class="speclabel">Peso máximo dos arquivos</td> <td class="cke"><ul><li>O peso total é calculado após a descompressão de TODOS os arquivos necessários de dentro do <code>.zip</code>. Se após a descompressão do <code>.zip</code> o total for maior que o especificado para o formato, serão pedidos ajustes.</li><li>Quando o arquivo <code>.zip</code> é descompresso (em um arquivo<code> .html</code>), deve ser possível visualizar a peça sem conexão à internet.</li><li>Arquivos iniciados pelo usuário não são considerados parte do peso inicial do arquivo.</li><li>Todos arquivos fonte (<code>.an</code>, <code>CSS</code>, <code>JS</code>, etc) devem ser enviados.</li></ul></td></tr>
+        <tr><td class="speclabel">HTML5 Guideline</td> <td class="cke"><p>Para mais detalhes, possuímos regras para para configurações gerais do HTML, neste link: <a href="https://br.adspecs.yahoo.com/pages/html5/">Diretrizes HTML5</a>.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Homepage Guidelines</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Número de criativos</td> <td class="cke"><p>Não é permitido rotacionar ads deste formato na homepage.</p><p>Apenas 1 (um) criativo é permitido.</p></td></tr>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Este formato não pode ser veiculado via third party.</p></td></tr>
+        <tr><td class="speclabel">Prazo de envio</td> <td class="cke"><p>5 (cinco) dias utéis.</p></td></tr>
+        <tr><td class="speclabel">Policies</td> <td class="cke"><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies/" target="_blank">policies do Yahoo.</a></p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>3rd Party – Contador</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Indisponível</p></td></tr>
+        <tr><td class="speclabel">Third Party Tracking</td> <td class="cke"><p>URL redirects e um 1×1 pixel por anúncio</p></td></tr>
+        <tr><td class="speclabel">SSL</td> <td class="cke"><p>Por razões de segurança, URLs de impressão devem ser obrigatoriamente seguras (HTTPS)</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<h1>Standard Front Page</h1>
+<div class="center">
+
+  <h2>Exemplos</h2>
+  <div id="demos" class="mod demos">
+    <div id="demo-carousel">
+      <div id="demo-nav">
+        <p class="label" id="demo-nav-label"></p>
+        <div class="prev-off" id="demo-nav-prev"></div>
+        <div class="next-on" id="demo-nav-next"></div>
+        <p class="clr"></p>
+      </div>
+      <ul id="demo-carousel-list">
+        <li><a target="_blank" href="http://public.yahoo.com/~wwwads/archives/subway/130403/"><img src="https://s.yimg.com/cv/ae/adspecs/demos/f465_demo1390498618.jpg" alt="Clique para ver o link teste" height="120" width="160"><p>Clique para ver o link teste</p></a></li>
+        <p class="clr"></p>
+      </ul>
+    </div>
+  </div>
+
+
+  <h2 class="noborder">Criativos a entregar</h2>
+  <div class="mod">
+    <table class="table-delivs">
+      <tbody><tr><th>Peça</th><th>Tipo de arquivo</th><th>Dimensões</th><th>Tamanho máximo</th></tr>
+        <tr><td class="component">Banner</td><td class="file_type">HTML 5 (.zip)</td><td class="dims">300×250 px</td><td class="max_size">200 KB</td></tr>
+        <tr><td class="component">Imagem de Backup</td><td class="file_type">JPG, GIF, PNG</td><td class="dims">300×250 px</td><td class="max_size">200 KB</td></tr>
+
+      </tbody></table>
+  </div>
+
+
+  <h2>Detalhes</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Click</td> <td class="cke"><p>Veja aqui nosso <a href="https://br.adspecs.yahoo.com/pages/guia-clicktag/" target="_blank">Guia de Clique.</a></p></td></tr>
+        <tr><td class="speclabel">Tempo de animação</td> <td class="cke"><p>Máximo de 15 segundos. Looping não é permitido</p></td></tr>
+        <tr><td class="speclabel">Mensuração Extra</td> <td class="cke"><p>Veja aqui nosso <a href="https://br.adspecs.yahoo.com/pages/mensuracao-extra/">Guia de Mensuração Extra</a></p></td></tr>
+        <tr><td class="speclabel">Borda</td> <td class="cke"><p>Necessária de todos os lados quando a cor de fundo do banner for branca ou outra de tonalidade muito clara</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Especificações HTML5 (Interativo)</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Tipos de imagens suportadas</td> <td class="cke"><p>GIF, JPG, PNG e SVG</p></td></tr>
+        <tr><td class="speclabel">Tipos de videos suportados</td> <td class="cke"><p>MP4 (H.264) e WEBM</p></td></tr>
+        <tr><td class="speclabel">Peso máximo dos arquivos</td> <td class="cke"><ul><li>Peso máximo ao carregar: 200 KB</li><li>Peso máximo para peças interativas: 300 KB</li><li>Peso máximo para videos interativos: 1.1 MB</li><li>Peso máximo ao usuário carregar arquivo: 2.2 MB</li></ul></td></tr>
+        <tr><td class="speclabel">Peso máximo dos arquivos</td> <td class="cke"><ul><li>O peso total é calculado após a descompressão de TODOS os arquivos necessários de dentro do <code>.zip</code>. Se após a descompressão do <code>.zip</code> o total for maior que o especificado para o formato, serão pedidos ajustes.</li><li>Quando o arquivo <code>.zip</code> é descompresso (em um arquivo<code> .html</code>), deve ser possível visualizar a peça sem conexão à internet.</li><li>Arquivos iniciados pelo usuário não são considerados parte do peso inicial do arquivo.</li><li>Todos arquivos fonte (<code>.an</code>, <code>CSS</code>, <code>JS</code>, etc) devem ser enviados.</li></ul></td></tr>
+        <tr><td class="speclabel">HTML5 Guideline</td> <td class="cke"><p>Para mais detalhes, possuímos regras para para configurações gerais do HTML, neste link: <a href="https://br.adspecs.yahoo.com/pages/html5/">Diretrizes HTML5</a>.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>Homepage Guidelines</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Número de criativos</td> <td class="cke"><p>Não é permitido rotacionar ads deste formato na homepage.</p><p>Apenas 1 (um) criativo é permitido.</p></td></tr>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Este formato não pode ser veiculado via third party.</p></td></tr>
+        <tr><td class="speclabel">Prazo de envio</td> <td class="cke"><p>5 (cinco) dias utéis.</p></td></tr>
+        <tr><td class="speclabel">Policies</td> <td class="cke"><p>Todos os anúncios devem seguir as <a href="https://br.adspecs.yahoo.com/pages/policies/" target="_blank">policies do Yahoo.</a></p></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <h2>3rd Party – Homepage Standard Ads</h2>
+  <div class="mod">
+    <p class="desc"></p>
+    <table class="table-speclist">
+      <tbody>
+        <tr><td class="speclabel">Third Party Serving</td> <td class="cke"><p>Somente dos <a href="https://br.adspecs.yahoo.com/thirdparty">vendors aprovados</a></p></td></tr>
+        <tr><td class="speclabel">Third party tracking</td> <td class="cke"><p>URL redirects e um 1×1 pixel por anúncio <a href="http://br.adspecs.yahoo.com/thirdparty" target="_blank">(vendors certificados pelo Yahoo</a>)</p><p>&nbsp;</p></td></tr>
+        <tr><td class="speclabel">SSL</td> <td class="cke"><p>Por razões de segurança, todas as chamadas de arquivos, URLs, pixels e scripts devem ser feitas obrigatoriamente em HTTPS</p></td></tr>
+        <tr><td class="speclabel">HTML5</td> <td class="cke"><p>Tags homologadas previamente deverão ser verificadas separadamente para HTML5, seguindo o processo padrão de certificação.</p></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+
+  <div class="content_header_stuff">
+    <h1>Guia de Clique</h1>
+  </div>
+  <div class="content_top_minilinks">
+
+    <div class="fl_r txt_r">
+    </div>
+    <div class="clr"></div>
+  </div>
+
+  <div class="guidelines">
+    <p>&nbsp;</p><p>Todo anúncio possibilita ao usuário interagir via clique, trazendo como resultado o redirecionamento para uma página web. Para que este redirecionamento ocorra perfeitamente e para que o Yahoo contabilize o mesmo, é necessário a utilização de alguns códigos específicos. Veja abaixo como adicionar o clique para anúncios do Yahoo.</p><p>&nbsp;</p><p><span style="color:#4b0082;"><strong>Comandos:</strong></span></p><p>&nbsp;</p><p style="margin-left: 40px;"><strong>HTML e Javascript:</strong></p><p style="margin-left: 40px;">&nbsp;</p><p style="margin-left: 80px;">Para adicionar o clique utilizando HTML e Javascript, é necessário encontrar a tag container do seu anúncio e adicionar ela entre uma tag <code>&lt;a&gt;</code>:</p><p style="margin-left: 80px;">&nbsp;</p><p style="margin-left: 80px;"><code>&lt;a id="clickArea" target="_blank"&gt;</code></p><p style="margin-left: 120px;"><code><code>&lt;!--[CONTAINER DO ANUNCIO AQUI]--&gt;</code></code></p><p style="margin-left: 80px;"><code>&lt;/a&gt;</code></p><p style="margin-left: 80px;">&nbsp;</p><p style="margin-left: 80px;">Após a tag &lt;a&gt;, cole o código javascript abaixo entre uma tag &lt;script&gt;:</p><p style="margin-left: 80px;">&nbsp;</p><p style="margin-left: 80px;"><code>var clickArea = document.getElementById("clickArea");<br>
+    clickArea.href = clickTAG;</code></p><p>&nbsp;</p><p style="margin-left: 80px;"><strong>*É necessário a utilização do mesmo id e target informado.</strong></p><p style="margin-left: 80px;"><strong>**<strong>&lt;!--[CONTAINER DO ANUNCIO AQUI]--&gt; precisa ser substituído pela TAG container.</strong></strong></p><p style="margin-left: 80px;">&nbsp;</p><p style="margin-left: 40px;"><strong>Javascript:</strong></p><p style="margin-left: 40px;">&nbsp;</p><p style="margin-left: 80px;">Para adicionar o clique utilizando apenas Javascript, é necessário referenciar a tag container para uma variável javascript, adicionar o evento de clique a mesma e atribuir a seguinte linha de comando na execução do clique [ <code>window.open(clickTAG, "_blank")</code> ], como pode ser visto no exemplo abaixo:</p><p style="margin-left: 80px;">&nbsp;</p><p style="margin-left: 80px;"><code>var node = document.getElementById("ID_CONTAINER");</code></p><p style="margin-left: 80px;"><code>node.<code>addEventListener</code>("click", function(e){</code></p><p style="margin-left: 120px;"><code>window.open(clickTAG, "_blank");</code></p><p style="margin-left: 80px;"><code>});</code></p><p style="margin-left: 80px;">&nbsp;</p><p style="margin-left: 80px;"><strong>*ID_CONTAINER necessita ser substituído pelo ID da tag container.</strong></p><p>&nbsp;</p><p><span style="color:#4b0082;"><strong>Ferramentas de Terceiros:</strong></span></p><p>&nbsp;</p><p style="margin-left: 40px;"><span style="color:#4b0082;"><strong>Swiffy:</strong></span></p><p style="margin-left: 40px;">&nbsp;</p><p style="margin-left: 80px;">Veja no link abaixo como adicionar o parametro de clickTAG do Yahoo para anúncios convertidos no Swiffy:</p><p style="margin-left: 80px;"><strong><a href="https://s.yimg.com/cv/ae/latam/dev/examples/html5/1447427440/clickTAG-Swiffy-ptBR.html" target="_blank">Yahoo/Swiffy</a></strong></p><p style="margin-left: 40px;">&nbsp;</p><p style="margin-left: 40px;">&nbsp;</p><p style="margin-left: 40px;"><span style="color:#4b0082;"><strong>Google Web Designer</strong>:</span></p><p style="margin-left: 40px;">&nbsp;</p><p style="margin-left: 80px;">Veja no link abaixo como adicionar o parâmetro de clickTAG do Yahoo no GWD (Google Web Designer):</p><p style="margin-left: 80px;"><strong><a href="https://s.yimg.com/cv/ae/br/adtech/examples/gwd/1443138213/GWD-ClickTAG.mp4" target="_blank">Yahoo/GWD</a></strong></p>
+  </div>
+
+
+
