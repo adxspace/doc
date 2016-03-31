@@ -23,11 +23,15 @@ Não utilizar as boas práticas descritas neste documento pode impactar negativa
 
 <h2>JavaScript</h2>
 <p>Uma forma simples de usar a variável clickTag é atribuir o href dinamicamente após o carregamento da página via JavaScript:</p>
-<code><a href="" id="clickArea" target="_blank"></a>
+<pre>
+<code>
+<a href="" id="clickArea" target="_blank"></a>
 <script type="text/javascript">
     var clickTag = "%%CLICK_URL_ESC%%%%DEST_URL%%";
     document.getElementById('clickArea').href = clickTag;   
-</script></code>
+</script>
+</code>
+</pre>pre>
 <p>Obs. Lembrando que a 'clickArea' precisa existir em seu HTML e seja a área clicável para redirecionamento. Além disso a chamada javascript deve vir após a existência do elemento clickArea no HTML. </p>
 
 <h2>HTML</h2>
