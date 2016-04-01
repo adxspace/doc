@@ -9,7 +9,7 @@
 <h2>Implementação</h2>
 
 
-<p><code>&lt;script src="https://azure-2mobile.netdna-ssl.com/static/rocket.js"&gt;&lt;/script&gt;
-  <br>  &lt;script&gt;
-  <br>      new ROCKET().setClickElement("canvas");
-    &lt;/script&gt;</code></p>
+<p><code>&lt;script src="https://azure-2mobile.netdna-ssl.com/static/rocket.js"&gt;&lt;/script&gt;</code></p>
+   <p><code>&lt;script&gt;</code></p>
+ <p><code> new ROCKET().setClickElement("canvas");</code></p>
+   <p><code> &lt;/script&gt;</code></p>
