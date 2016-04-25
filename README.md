@@ -11,6 +11,6 @@
 ```demo
 <script src="https://azure-2mobile.netdna-ssl.com/static/rocket.js"></script>
    <script>
-      new ROCKET().setClickElement("canvas");
+      new ROCKET().setClickElement("ID DO LOCAL DA PEÇA");
 </script>
 ```
