@@ -29,7 +29,7 @@ Não utilizar as boas práticas descritas neste documento pode impactar negativa
 <code>
 &lt; href="" id="clickArea" target="_blank">&gt;
 &lt;script type="text/javascript">
-    var clickTag = "%%CLICK_URL_ESC%%%%DEST_URL%%";
+    var clickTag = "%%CLICK_URL_UNESC%%";
     document.getElementById('clickArea').href = clickTag;   
 &lt;/script&gt;
 </code>
